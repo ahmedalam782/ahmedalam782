@@ -18,7 +18,9 @@
 - 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
 - 💬 Ask me about my experience with programming, and Dart ,or anything related to Flutter development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 📫 How to reach me **ahmedalam4887482@mail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L2_XyhVm07oZDi5MHzMSusuCjjKwrHAy/view?usp=sharing](https://drive.google.com/file/d/1L2_XyhVm07oZDi5MHzMSusuCjjKwrHAy/view?usp=sharing)
 
 ## Contact with Me :
 
@@ -46,9 +48,12 @@
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalam782&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&show_icons=true&locale=en&layout=compact" alt="ahmedalam782" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&locale=en" alt="ahmedalam782" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalam782&" alt="ahmedalam782" /></p>
 
 ## 💎 Fav Quotes: 
 - "Think twice, code once". 
