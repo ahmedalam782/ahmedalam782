@@ -23,10 +23,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L2_XyhVm07oZDi5MHzMSusuCjjKwrHAy/view?usp=sharing](https://drive.google.com/file/d/1L2_XyhVm07oZDi5MHzMSusuCjjKwrHAy/view?usp=sharing)
 
 ## Contact with Me :
-  <a href="https://www.linkedin.com/in/ahmedmohamedalam/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
-    <a href="https://wa.me/+201559555092" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" /></a>
-        <a href="mailto:ahmedalam4887482@mail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45" /></a>
-
+<div align="left">
+  <a href="https://wa.me/+201559555092" target="_blank"> <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />  </a>
+<a href="https://www.linkedin.com/in/ahmedmohamedalam/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+ <a href="mailto:ahmedalam4887482@mail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ </a>
+</div>
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -58,6 +60,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&locale=en" alt="ahmedalam782" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalam782&" alt="ahmedalam782" /></p>
+
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ## 💎 Fav Quotes: 
 - "Think twice, code once". 
