@@ -1,71 +1,126 @@
+<!-- Animated header -->
+<img align="right" width="250" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
-<img width="200" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN3M3c2Z2FlZHpwN3Z2cTZ5Ynd4ZTQ4NGVia2k3YnF1MW4weThpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+<h1 align="center">
+  👋 Hi there, I'm <span style="color:#00B0FF;">Ahmed Alam</span>
+</h1>
 
-<h3 align="center">
-  Welcome to Ahmed Alam's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B0FF&width=500&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Things;Passionate+About+Mobile+Innovation" alt="Typing SVG" />
+  </a>
+</p>
 
-## :woman_technologist: About Me :
-- 🏢 I'm a Software Engineer (Flutter Developer) 
-- 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
-- 💼 Open to freelance projects and collaborations on exciting ventures.
-- 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
-- 💬 Ask me about my experience with programming, and Dart ,or anything related to Flutter development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 📫 How to reach me **ahmedalam4887482@mail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CUDLUmwkFTRXdQ4uTp0dq5CMm3zYRQ_6/view?usp=sharing]
+## 👨‍💻 About Me  
 
-## Contact with Me :
-<div align="left">
-  <a href="https://wa.me/+201559555092" target="_blank"> <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />  </a>
-<a href="https://www.linkedin.com/in/ahmedmohamedalam/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
- <a href="mailto:ahmedalam4887482@mail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- </a>
+- 🏢 **Software Engineer (Flutter Developer)**  
+- 🚀 Building smooth, scalable, and beautiful mobile experiences  
+- 💼 Open to **remote**, **freelance**, or **team collaborations**  
+- 💬 Skilled in **Flutter**, **Dart**, **Cubit**, and **Clean Architecture**  
+- ☕ Coffee is my creative fuel ☕  
+- 📫 Reach me at **ahmedalam4887482@mail.com**  
+- 📄 [Check My Resume](https://drive.google.com/file/d/1CUDLUmwkFTRXdQ4uTp0dq5CMm3zYRQ_6/view?usp=sharing)
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://wa.me/+201559555092" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedmohamedalam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedalam4887482@mail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools  
+
+<p align="center">
+  <!-- Dark mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedalam782&label=Profile+Views&color=00B0FF&style=flat-square" alt="Profile views" />
+</p>
+
+<div align="center">
+
+  <!-- Auto theme GitHub Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=tokyonight&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=default&hide_border=true" height="180em" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=tokyonight&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=default&hide_border=true" height="180em" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=tokyonight&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=default&hide_border=true" />
+  </picture>
+
 </div>
 
-## :hammer_and_wrench: Languages and Tools :
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp; 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" **alt="Intellij" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
-           <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>&nbsp;
-             <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" **alt="AndroidStudio" width="40" height="40"/>&nbsp;
-               <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="XD" **alt="XD" width="40" height="40"/>&nbsp;
+## 🏆 Achievements  
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=algolia&no-frame=true&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=flat&no-frame=true&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </picture>
 </div>
 
+---
 
-## :fire: My Stats :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalam782&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalam782" /> </p>
+## 💬 Favorite Quotes  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=monokai" alt="ahmedalam782" /></a> </p>
+> 💭 *“Think twice, code once.”*  
+> 💡 *“Life is about solving problems.”*  
+> 🧭 *“Build what you wish existed.”*
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&show_icons=true&locale=en&layout=compact" alt="ahmedalam782" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&locale=en" alt="ahmedalam782" /></p>
+<h3 align="center">✨ Made with Flutter, curiosity, and coffee ✨</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalam782&" alt="ahmedalam782" /></p>
-
-
-
-
-
-
-## 💎 Fav Quotes: 
-- "Think twice, code once". 
-- "Life is about Solving Problems".
+---
