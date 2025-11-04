@@ -2,30 +2,30 @@
 <img align="right" width="250" src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 <h1 align="center">
-  👋 Hi there, I'm <span style="color:#00B0FF;">Ahmed Alam</span>
+  👋 Hi there, I'm <span style="color:#00bcd4;">Ahmed Alam</span>  
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B0FF&width=500&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Things;Passionate+About+Mobile+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00bcd4&width=500&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Things;Passionate+About+Mobile+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧑‍💻 About Me  
 
 - 🏢 **Software Engineer (Flutter Developer)**  
-- 🚀 Building smooth, scalable, and beautiful mobile experiences  
-- 💼 Open to **remote**, **freelance**, or **team collaborations**  
-- 💬 Skilled in **Flutter**, **Dart**, **Cubit**, and **Clean Architecture**  
-- ☕ Coffee is my creative fuel ☕  
-- 📫 Reach me at **ahmedalam4887482@mail.com**  
-- 📄 [Check My Resume](https://drive.google.com/file/d/1CUDLUmwkFTRXdQ4uTp0dq5CMm3zYRQ_6/view?usp=sharing)
+- 🚀 Building robust, scalable, and beautiful mobile apps  
+- 💼 Open to **remote**, **freelance**, or **long-term collaborations**  
+- 💬 Ask me about **Flutter**, **Cubit**, or **Clean Architecture**  
+- ☕ Coffee fuels my creativity ☕  
+- 📫 Reach me at: **ahmedalam4887482@mail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1CUDLUmwkFTRXdQ4uTp0dq5CMm3zYRQ_6/view?usp=sharing)
 
 ---
 
-## 🌍 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://wa.me/+201559555092" target="_blank">
@@ -35,21 +35,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedalam4887482@mail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools  
+## ⚙️ Languages & Tools  
 
 <p align="center">
-  <!-- Dark mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea&theme=light" />
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman,figma,xd,idea&theme=dark" />
 </p>
 
 ---
@@ -57,63 +52,29 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedalam782&label=Profile+Views&color=00B0FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedalam782&label=Profile+Views&color=00bcd4&style=flat-square" alt="Profile views" />
 </p>
 
 <div align="center">
-
-  <!-- Auto theme GitHub Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=default&hide_border=true" height="180em" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=default&hide_border=true" height="180em" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=tokyonight&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=default&hide_border=true" />
-  </picture>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=algolia&no-frame=true&margin-w=10" alt="Trophies" />
 </div>
 
----
-
-## 🏆 Achievements  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=algolia&no-frame=true&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=flat&no-frame=true&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 💬 Favorite Quotes  
 
-> 💭 *“Think twice, code once.”*  
+> 🧠 *“Think twice, code once.”*  
 > 💡 *“Life is about solving problems.”*  
-> 🧭 *“Build what you wish existed.”*
+> 🦋 *“Build what you wish existed.”*
 
 ---
 
@@ -121,6 +82,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<h3 align="center">✨ Made with Flutter, curiosity, and coffee ✨</h3>
+<h3 align="center">💙 Made with Flutter, caffeine, and curiosity 💙</h3>
 
 ---
