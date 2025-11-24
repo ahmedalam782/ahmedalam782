@@ -75,6 +75,9 @@
 > 🧠 *“Think twice, code once.”*  
 > 💡 *“Life is about solving problems.”*  
 > 🦋 *“Build what you wish existed.”*
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmedalam782&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
