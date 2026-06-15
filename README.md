@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;Clean+Architecture+%7C+Bloc+%7C+Firebase+%F0%9F%94%A5;Building+with+purpose%2C+shipping+with+pride+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;Open+Source+Package+Author+%F0%9F%93%A6;Clean+Architecture+%7C+Bloc+%7C+Firebase+%F0%9F%94%A5;Building+with+purpose%2C+shipping+with+pride+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,6 +22,7 @@ class AhmedMohamed extends FlutterDeveloper {
 
   final List<String> expertise = [
     "Production mobile apps (Play Store & App Store)",
+    "Open-source Flutter package author (pub.dev)",
     "Clean Architecture · MVVM · Repository Pattern",
     "Bloc / Cubit state management",
     "Firebase · REST APIs · WebSockets",
@@ -34,6 +35,74 @@ class AhmedMohamed extends FlutterDeveloper {
   bool get openToWork => true; // Remote · Freelance · Long-term
 }
 ```
+
+---
+
+## 📦 Open Source Packages
+
+### 🎥 adaptive_video_player
+
+[![pub package](https://img.shields.io/pub/v/adaptive_video_player.svg)](https://pub.dev/packages/adaptive_video_player)
+[![Likes](https://img.shields.io/pub/likes/adaptive_video_player?logo=dart)](https://pub.dev/packages/adaptive_video_player/score)
+[![Pub Points](https://img.shields.io/pub/points/adaptive_video_player?logo=dart)](https://pub.dev/packages/adaptive_video_player/score)
+[![Downloads](https://img.shields.io/pub/dm/adaptive_video_player)](https://pub.dev/packages/adaptive_video_player)
+
+> **The only Flutter video player that supports YouTube + direct video URLs on ALL platforms with one widget.**
+
+The `adaptive_video_player` package automatically detects whether a URL is a YouTube link or a direct video file and picks the best player — all through a single unified `AdaptiveVideoPlayer` widget.
+
+**Key features:**
+- 🔀 **Smart detection** — YouTube vs MP4/HLS/WebM chosen automatically
+- 📺 **Full YouTube support** — custom mobile controls, native controls on Desktop & Web, live stream support with viewer count, force HD, captions, settings panel
+- 🎞️ **Normal video** — MP4, MKV, WebM, AVI, local files, in-memory bytes, quality picker, SRT/VTT subtitles, custom UI builders
+- 🖥️ **Cross-platform** — Android · iOS · macOS · Windows · Linux · Web
+- 🔐 **Safe external links** — YouTube redirect URLs open in system browser
+
+```dart
+// One widget. Any URL. Every platform.
+AdaptiveVideoPlayer(
+  config: VideoConfig(
+    videoUrl: 'https://youtu.be/VIDEO_ID', // or any .mp4 / .m3u8 URL
+  ),
+)
+```
+
+[![pub.dev](https://img.shields.io/badge/pub.dev-adaptive__video__player-00B4D8?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/adaptive_video_player)
+[![GitHub](https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedalam782/vidoes_player)
+
+---
+
+### 🗺️ osm_location_picker
+
+[![pub package](https://img.shields.io/pub/v/osm_location_picker.svg)](https://pub.dev/packages/osm_location_picker)
+[![Likes](https://img.shields.io/pub/likes/osm_location_picker?logo=dart)](https://pub.dev/packages/osm_location_picker/score)
+[![Pub Points](https://img.shields.io/pub/points/osm_location_picker?logo=dart)](https://pub.dev/packages/osm_location_picker/score)
+[![Downloads](https://img.shields.io/pub/dm/osm_location_picker)](https://pub.dev/packages/osm_location_picker)
+
+> **No API key. No account. No billing.** A fully self-contained location picker powered by OpenStreetMap.
+
+Drop in a `LocationPickerView`, get back a `LocationModel` with address string + `LatLng`. Perfect for indie apps that don't want the overhead of Google Maps or Mapbox registration.
+
+**Key features:**
+- 🗺️ Interactive map with `flutter_map` + OpenStreetMap tiles
+- 🔍 Address search via Nominatim geocoding
+- 📍 One-tap GPS jump to current device location
+- 🎨 Fully themeable via `LocationPickerTheme`
+- 🌐 Built-in Arabic & English UI strings
+- 🏗️ BLoC/Cubit state management — no global state pollution
+- 📦 All 6 Flutter platforms supported
+
+```dart
+final LocationModel? result = await Navigator.of(context).push<LocationModel>(
+  MaterialPageRoute(builder: (_) => const LocationPickerView()),
+);
+
+print(result?.address);           // "Baghdad, Iraq"
+print(result?.latLng?.latitude);  // 33.315241
+```
+
+[![pub.dev](https://img.shields.io/badge/pub.dev-osm__location__picker-00B4D8?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/osm_location_picker)
+[![GitHub](https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedalam782/osm_location_picker)
 
 ---
 
