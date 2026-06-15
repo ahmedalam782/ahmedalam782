@@ -19,7 +19,7 @@ class AhmedMohamed extends FlutterDeveloper {
   final String location   = "Benha, Qalyubia 🇪🇬";
   final String role       = "Flutter Developer @ MDSoft";
   final String education  = "B.Sc. Computer Science — Benha University";
-  
+
   final List<String> expertise = [
     "Production mobile apps (Play Store & App Store)",
     "Clean Architecture · MVVM · Repository Pattern",
@@ -39,33 +39,39 @@ class AhmedMohamed extends FlutterDeveloper {
 
 ## 🚀 Featured Projects
 
-### 📦 Balsan — E-Commerce App
+### 🛒 Balsan — E-Commerce App
 > Full-featured marketplace for air conditioners & home appliances
 
-- 🛒 Product catalog, cart, checkout with real-time Firebase updates
+- 🛒 Product catalog, cart, and checkout with real-time Firebase updates
 - 🗺️ Google Maps for store locations & delivery tracking
 - 🔔 Push notifications for order status via FCM
 - ⚙️ Clean Architecture + Bloc/Cubit + GetIt + CI/CD
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.balsan2)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/al-balsan/id6747080711)
+[![Website](https://img.shields.io/badge/Website-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://al-balsan.com/)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ### 🚖 Taxi Beirut — Ride-Hailing System
-> Two-app ecosystem: Client booking + Agent management dashboard
+> Two-app ecosystem: Customer booking app + Agent management dashboard
 
 - 📍 Real-time ride tracking with Google Maps integration
 - 💰 Dynamic pricing display before trip confirmation
 - 📲 VOIP notifications & background location services
 - 🔄 QR Code wallet top-up for seamless payments
 
-[![Play Store (Client)](https://img.shields.io/badge/Play_Store_Client-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-[![App Store (Client)](https://img.shields.io/badge/App_Store_Client-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Play Store (Agent)](https://img.shields.io/badge/Play_Store_Agent-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-[![App Store (Agent)](https://img.shields.io/badge/App_Store_Agent-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
+**Customer App**
+
+[![Play Store](https://img.shields.io/badge/Play_Store_Customer-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taxi.md_soft.taxi_customer_app)
+[![App Store](https://img.shields.io/badge/App_Store_Customer-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA/id6748995437)
+
+**Agent App**
+
+[![Play Store](https://img.shields.io/badge/Play_Store_Agent-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.taxibeirutagent)
+[![App Store](https://img.shields.io/badge/App_Store_Agent-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/taxi-beirut-agent/id6760011080)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
@@ -75,14 +81,14 @@ class AhmedMohamed extends FlutterDeveloper {
 ### 🏥 VA Note — Patient Management App
 > Clinic app for scheduling, health records & appointment reminders
 
-- 📋 Stores patient info, health details & doctor notes per visit
+- 📋 Patient info, health details & per-visit doctor notes
 - 📅 Appointment scheduling with FCM reminder notifications
 - 🔐 Secure data storage via Firebase Firestore
 - 🏗️ MVVM + Clean Architecture for maintainable clinic workflows
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.vanotesclinic)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/va-note/id6759074915)
+[![Website](https://img.shields.io/badge/Website-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://va-note.com/clinic/)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
