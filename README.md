@@ -223,7 +223,7 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
@@ -231,12 +231,13 @@ print(result?.latLng?.latitude);  // 33.315241
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=tokyonight&hide_border=true" height="175em" />
+[![GitHub Repositories](https://img.shields.io/github/repositories/ahmedalam782?style=for-the-badge&logo=github&color=00B4D8&label=Public%20Repos)](https://github.com/ahmedalam782?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/ahmedalam782?style=for-the-badge&logo=github&color=0077B6&label=Followers)](https://github.com/ahmedalam782?tab=followers)
+[![pub.dev Package Likes](https://img.shields.io/pub/likes/adaptive_video_player?style=for-the-badge&logo=dart&color=00B4D8&label=Package%20Likes)](https://pub.dev/packages/adaptive_video_player)
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=ahmedalam782&theme=tokyonight&hide_border=true" />
+[![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalam782&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ahmedalam782)
 
 </div>
 
