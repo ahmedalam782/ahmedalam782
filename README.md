@@ -231,9 +231,10 @@ print(result?.latLng?.latitude);  // 33.315241
 
 <br /><br />
 
-[![GitHub Repositories](https://img.shields.io/github/repositories/ahmedalam782?style=for-the-badge&logo=github&color=00B4D8&label=Public%20Repos)](https://github.com/ahmedalam782?tab=repositories)
+[![Production Apps](https://img.shields.io/badge/Production_Apps-4+_Shipped-00B4D8?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/ahmedalam782)
 [![GitHub Followers](https://img.shields.io/github/followers/ahmedalam782?style=for-the-badge&logo=github&color=0077B6&label=Followers)](https://github.com/ahmedalam782?tab=followers)
-[![pub.dev Package Likes](https://img.shields.io/pub/likes/adaptive_video_player?style=for-the-badge&logo=dart&color=00B4D8&label=Package%20Likes)](https://pub.dev/packages/adaptive_video_player)
+[![pub.dev Downloads](https://img.shields.io/pub/dm/adaptive_video_player?style=for-the-badge&logo=dart&color=00B4D8&label=Package%20Downloads)](https://pub.dev/packages/adaptive_video_player)
+[![pub.dev Likes](https://img.shields.io/pub/likes/adaptive_video_player?style=for-the-badge&logo=dart&color=0077B6&label=Package%20Likes)](https://pub.dev/packages/adaptive_video_player)
 
 <br /><br />
 
