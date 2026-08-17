@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Ahmed%20Mohamed%20Osman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Open-Source%20Author%20%7C%20Clean%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Senior+Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;Author+of+adaptive_video_player+(370%2B+Downloads)+%F0%9F%93%A6;Clean+Architecture+%7C+BLoC+%7C+Firebase+%F0%9F%94%A5;Building+with+purpose%2C+shipping+with+pride+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Senior+Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;Author+of+adaptive_video_player+(370%2B+Downloads)+%F0%9F%93%A6;Clean+Architecture+%7C+BLoC+%7C+Firebase+%F0%9F%94%A5;Building+with+purpose%2C+shipping+with+pride+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedmohamedalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
