@@ -2,17 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Ahmed%20Mohamed%20Osman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Open-Source%20Author%20%7C%20Clean%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Senior+Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;Author+of+adaptive_video_player+(370%2B+Downloads)+%F0%9F%93%A6;Clean+Architecture+%7C+BLoC+%7C+Firebase+%F0%9F%94%A5;Building+with+purpose%2C+shipping+with+pride+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmedmohamedalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmedalam4887482@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/201559555092"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://pub.dev/packages/adaptive_video_player"><img src="https://img.shields.io/badge/pub.dev-00B4D8?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Quick Pitch & Bio
+
+> 👋 **Hi, I'm Ahmed Mohamed Osman (Alam)** — a **Senior Flutter Developer** with **2+ years of production experience** shipping 4 cross-platform mobile apps on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (370+ downloads & 160/160 Pub Points score on pub.dev). Specializing in Clean Architecture, BLoC/Cubit state management, Firebase cloud services, REST/WebSocket integration, and automated CI/CD deployment pipelines.
+
+---
+
+## 🧑‍💻 Overview
 
 ```dart
 class AhmedOsman extends SeniorFlutterDeveloper {
@@ -22,8 +31,8 @@ class AhmedOsman extends SeniorFlutterDeveloper {
   final String experience   = "2+ Years Production Mobile Experience";
 
   final List<String> coreExpertise = [
-    "Production Mobile Apps (4+ apps published on Play Store & App Store)",
-    "Open-Source Flutter Package Author (pub.dev: 160/160 Pub Points)",
+    "Production Mobile Apps (4+ published on Play Store & App Store)",
+    "Open-Source Package Author (pub.dev: 160/160 Pub Points)",
     "Clean Architecture · MVVM · Repository Pattern · SOLID",
     "BLoC / Cubit Reactive State Management",
     "Firebase Suite · REST APIs · WebSockets · Google Maps SDK",
@@ -37,18 +46,16 @@ class AhmedOsman extends SeniorFlutterDeveloper {
 }
 ```
 
-> **Bio:** Flutter Developer with 2+ years of production experience shipping 4 mobile apps on Google Play and the Apple App Store. Author of `adaptive_video_player` on pub.dev. Specializing in Clean Architecture, BLoC/Cubit state management, Firebase cloud services, REST/WebSocket integration, and automated CI/CD deployment pipelines.
-
 ---
 
-## 📈 Impact at a Glance
+## 📈 Impact & Highlights
 
-| Metric | Stat |
-|---|---|
-| 🚀 **Production Apps Shipped** | **4+ Apps** (Google Play & App Store) |
-| 📦 **Pub.dev Package Downloads** | **376+ Downloads** |
-| 💯 **Pub Points Score** | **160 / 160** (100% Quality Score) |
-| 🎓 **Academic Grade** | **Very Good (Graduation Project: Excellent)** |
+| Metric | Detail | Status |
+|---|---|---|
+| 🚀 **Production Mobile Apps** | Shipped 4 apps on Google Play & App Store | Live in Production |
+| 📦 **Open-Source Packages** | Author of `adaptive_video_player` & `osm_location_picker` | 370+ Downloads |
+| 💯 **Pub.dev Score** | Maximum 160/160 Pub Points on pub.dev | 100% Package Quality |
+| 🎓 **Computer Science Degree** | Benha University (Graduation Project: Excellent) | Grade: Very Good |
 
 ---
 
@@ -216,7 +223,7 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -224,16 +231,12 @@ print(result?.latLng?.latitude);  // 33.315241
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedalam782&theme=algolia&no-frame=true&margin-w=10&column=6" alt="Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=tokyonight&hide_border=true" height="175em" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalam782&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedalam782&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ahmedalam782&theme=tokyonight&hide_border=true" />
 
 </div>
 
