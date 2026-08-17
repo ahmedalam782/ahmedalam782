@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 ```dart
 class AhmedMohamed extends FlutterDeveloper {
