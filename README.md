@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Ahmed%20Mohamed%20Osman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Open-Source%20Author%20%7C%20Clean%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Ahmed%20Mohamed%20Osman%20(Ahmed%20Alam)&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Open-Source%20Author%20%7C%20Clean%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Senior+Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;Author+of+adaptive_video_player+(370%2B+Downloads)+%F0%9F%93%A6;Clean+Architecture+%7C+BLoC+%7C+Firebase+%F0%9F%94%A5;Building+with+purpose%2C+shipping+with+pride+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;30%25+App+Startup+Speed+Optimization+%E2%9A%A1;Author+of+adaptive_video_player+(376%2B+Downloads)+%F0%9F%93%A6;5%2B+Hours%2FWeek+Saved+via+CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedmohamedalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ahmedalam4887482@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://wa.me/201559555092"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://pub.dev/packages/adaptive_video_player"><img src="https://img.shields.io/badge/pub.dev-00B4D8?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
+  <a href="https://pub.dev/publishers/ahmedalam782/packages"><img src="https://img.shields.io/badge/pub.dev-00B4D8?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
 </p>
 
 </div>
@@ -17,14 +17,14 @@
 
 ## ⚡ Quick Pitch & Bio
 
-> 👋 **Hi, I'm Ahmed Mohamed Osman (Alam)** — a **Senior Flutter Developer** with **2+ years of production experience** shipping 4 cross-platform mobile apps on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (370+ downloads & 160/160 Pub Points score on pub.dev). Specializing in Clean Architecture, BLoC/Cubit state management, Firebase cloud services, REST/WebSocket integration, and automated CI/CD deployment pipelines.
+> 👋 **Hi, I'm Ahmed Mohamed Osman (Ahmed Alam)** — a **Flutter Developer** with **2+ years of production experience** shipping 4 cross-platform mobile apps on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (376+ downloads & 160/160 Pub Points score on pub.dev) and **`osm_location_picker`**. Specializing in Clean Architecture, BLoC/Cubit state management, performance optimization (cutting startup time by 30%), automated CI/CD releases (saving 5+ hours/week), and 85% widget testing coverage.
 
 ---
 
 ## 🧑‍💻 Overview
 
 ```dart
-class AhmedOsman extends SeniorFlutterDeveloper {
+class AhmedOsman extends FlutterDeveloper {
   final String location     = "Benha, Qalyubia, Egypt 🇪🇬";
   final String currentRole  = "Flutter Developer @ MDSoft";
   final String education    = "B.Sc. Computer Science — Benha University (Very Good)";
@@ -32,11 +32,11 @@ class AhmedOsman extends SeniorFlutterDeveloper {
 
   final List<String> coreExpertise = [
     "Production Mobile Apps (4+ published on Play Store & App Store)",
+    "Performance Optimization (30% app startup speed boost via lazy loading)",
     "Open-Source Package Author (pub.dev: 160/160 Pub Points)",
+    "Automated CI/CD Pipelines (GitHub Actions saving 5+ hrs/week)",
     "Clean Architecture · MVVM · Repository Pattern · SOLID",
-    "BLoC / Cubit Reactive State Management",
-    "Firebase Suite · REST APIs · WebSockets · Google Maps SDK",
-    "Automated CI/CD Pipelines (GitHub Actions & Fastlane)",
+    "BLoC / Cubit Reactive State Management · 85% Widget Testing",
   ];
 
   String get currentFocus => "Architecting scalable cross-platform mobile apps"
@@ -53,8 +53,10 @@ class AhmedOsman extends SeniorFlutterDeveloper {
 | Metric | Detail | Status |
 |---|---|---|
 | 🚀 **Production Mobile Apps** | Shipped 4 apps on Google Play & App Store | Live in Production |
-| 📦 **Open-Source Packages** | Author of `adaptive_video_player` & `osm_location_picker` | 370+ Downloads |
-| 💯 **Pub.dev Score** | Maximum 160/160 Pub Points on pub.dev | 100% Package Quality |
+| ⚡ **Performance Boost** | 30% app startup time optimization via code splitting | Verified Metric |
+| ⚙️ **CI/CD Efficiency** | Automated GitHub Actions pipelines saving 5+ hrs/week | Production Automated |
+| 📦 **Open-Source Packages** | Author of `adaptive_video_player` & `osm_location_picker` | 376+ Downloads |
+| 🧪 **Test Coverage** | Automated UI widget testing across 85% of components | High Release Confidence |
 | 🎓 **Computer Science Degree** | Benha University (Graduation Project: Excellent) | Grade: Very Good |
 
 ---
@@ -121,6 +123,7 @@ print(result?.latLng?.latitude);  // 33.315241
 > Full-featured marketplace for air conditioners & home appliances featuring live catalog browsing, cart checkout flows, and real-time order tracking.
 
 - 🏗️ **Architecture:** Clean Architecture + MVVM + BLoC/Cubit + GetIt DI
+- ⚡ **Optimization:** Optimized app startup time by **30%** through lazy loading and code splitting.
 - 🗺️ **Features:** Interactive Google Maps store locator & delivery tracker, wishlist, FCM push notifications, offline caching
 - 📱 **Platforms:** Released on Google Play & Apple App Store
 
@@ -167,16 +170,19 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ```
 💼 Flutter Developer @ MDSoft (Jan 2025 – Present | Full-Time | Egypt)
-  • Architected & deployed 4 production apps on Google Play & App Store.
-  • Created & published adaptive_video_player on pub.dev.
-  • Set up automated GitHub Actions CI/CD deployment pipelines.
+  • Developed & maintained 4 production apps published on Google Play & App Store.
+  • Optimized Balsan app startup load time by 30% via lazy loading and code splitting.
+  • Created & published adaptive_video_player and osm_location_picker on pub.dev.
+  • Configured automated GitHub Actions CI/CD pipelines saving 5+ hours per week.
 
-🎓 Flutter Developer (Tech Dept & Bootcamp) @ Elevate Tech (Oct 2025 – Mar 2026 | Remote)
-  • Worked as Flutter Developer in Tech Dept (Official Experience Certificate issued).
-  • Advanced Bootcamp Training in Clean Architecture, BLoC, Dependency Injection (GetIt), & SOLID.
+🎓 Flutter Developer (Part-Time) @ Elevate Tech (Oct 2025 – Mar 2026 | Remote)
+  • Shipped production features remotely within the Tech Development Department.
+  • Automated widget tests covering 85% of UI components, improving release confidence.
+  • Clean Architecture, BLoC, Repository Pattern, Dependency Injection (GetIt), & SOLID.
 
 💻 IT & RMS Support Specialist @ Total Stores (Jun 2022 – Aug 2023 | Full-Time | Egypt)
-  • Automated customer follow-up email workflows and compiled SQL relational insights.
+  • Automated follow-up email sequences in RMS, cutting manual follow-up time by 10+ hrs/week.
+  • Generated Microsoft Dynamics RMS reports to shape inventory and sales decisions.
 ```
 
 ---
@@ -251,7 +257,7 @@ print(result?.latLng?.latitude);  // 33.315241
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmohamedalam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedalam4887482@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201559555092)
-[![pub.dev](https://img.shields.io/badge/pub.dev-00B4D8?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/adaptive_video_player)
+[![pub.dev](https://img.shields.io/badge/pub.dev-00B4D8?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/ahmedalam782/packages)
 
 </div>
 
