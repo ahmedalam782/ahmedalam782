@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Ahmed%20Mohamed%20Osman%20(Ahmed%20Alam)&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Open-Source%20Author%20%7C%20Clean%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Flutter+Developer+%F0%9F%93%B1;4%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;30%25+App+Startup+Speed+Optimization+%E2%9A%A1;Author+of+adaptive_video_player+(376%2B+Downloads)+%F0%9F%93%A6;5%2B+Hours%2FWeek+Saved+via+CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Flutter+Developer+%F0%9F%93%B1;7%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;30%25+App+Startup+Speed+Optimization+%E2%9A%A1;Author+of+adaptive_video_player+(376%2B+Downloads)+%F0%9F%93%A6;5%2B+Hours%2FWeek+Saved+via+CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedmohamedalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 
 ## ⚡ Quick Pitch & Bio
 
-> 👋 **Hi, I'm Ahmed Mohamed Osman (Ahmed Alam)** — a **Flutter Developer** with **2+ years of production experience** shipping 4 cross-platform mobile apps on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (376+ downloads & 160/160 Pub Points score on pub.dev) and **`osm_location_picker`**. Specializing in Clean Architecture, BLoC/Cubit state management, performance optimization (cutting startup time by 30%), automated CI/CD releases (saving 5+ hours/week), and 85% widget testing coverage.
+> 👋 **Hi, I'm Ahmed Mohamed Osman (Ahmed Alam)** — a **Flutter Developer** with **2+ years of production experience** shipping **7+ cross-platform mobile apps** on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (376+ downloads & 160/160 Pub Points score on pub.dev) and **`osm_location_picker`**. Specializing in Clean Architecture, BLoC/Cubit state management, performance optimization (cutting startup time by 30%), automated CI/CD releases (saving 5+ hours/week), and 85% widget testing coverage.
 
 ---
 
@@ -31,7 +31,7 @@ class AhmedOsman extends FlutterDeveloper {
   final String experience   = "2+ Years Production Mobile Experience";
 
   final List<String> coreExpertise = [
-    "Production Mobile Apps (4+ published on Play Store & App Store)",
+    "Production Mobile Apps (7+ published on Play Store & App Store)",
     "Performance Optimization (30% app startup speed boost via lazy loading)",
     "Open-Source Package Author (pub.dev: 160/160 Pub Points)",
     "Automated CI/CD Pipelines (GitHub Actions saving 5+ hrs/week)",
@@ -52,8 +52,8 @@ class AhmedOsman extends FlutterDeveloper {
 
 | Metric | Detail | Status |
 |---|---|---|
-| 🚀 **Production Mobile Apps** | Shipped 4 apps on Google Play & App Store | Live in Production |
-| ⚡ **Performance Boost** | 30% app startup time optimization via code splitting | Verified Metric |
+| 🚀 **Production Mobile Apps** | Shipped **7+ apps** on Google Play & App Store | Live in Production |
+| ⚡ **Performance Boost** | 30% app startup time optimization via code splitting & lazy loading | Verified Metric |
 | ⚙️ **CI/CD Efficiency** | Automated GitHub Actions pipelines saving 5+ hrs/week | Production Automated |
 | 📦 **Open-Source Packages** | Author of `adaptive_video_player` & `osm_location_picker` | 376+ Downloads |
 | 🧪 **Test Coverage** | Automated UI widget testing across 85% of components | High Release Confidence |
@@ -117,7 +117,7 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-## 🚀 Featured Production Apps
+## 🚀 Featured Production Apps (7+ Shipped)
 
 ### 🛒 1. Balsan — E-Commerce & Smart Appliance Marketplace
 > Full-featured marketplace for air conditioners & home appliances featuring live catalog browsing, cart checkout flows, and real-time order tracking.
@@ -133,7 +133,54 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-### 🏥 2. VA Note Clinic — Healthcare & Patient Management
+### 🚖 2. Taxi Beirut Agent — Fleet Dispatch, Driver Management & Agent Operations
+> Dedicated agency management application for Taxi Beirut fleet, enabling real-time driver tracking, ride dispatching, and agent balance top-ups.
+
+- 🏗️ **Architecture:** Clean Architecture + BLoC/Cubit + Google Maps SDK + REST API
+- 📍 **Features:** Real-time fleet tracking, dynamic ride dispatching, driver account onboarding & supervision, merchant balance wallet top-ups, instant push dispatch alerts
+- 📱 **Platforms:** Released on Google Play & Apple App Store
+
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.taxibeirutagent)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/taxi-beirut-agent/id6760011080)
+
+---
+
+### 💄 3. Silver Cosmetic (كوزمتك فضة) — Beauty & Cosmetics Marketplace
+> Full-featured beauty and cosmetics e-commerce mobile application featuring extensive product catalogs, categorized shopping, discount codes, and seamless order checkout.
+
+- 🏗️ **Architecture:** Clean Architecture + BLoC/Cubit + REST API + Cached Network Imaging
+- ✨ **Features:** Multi-category beauty catalog, dynamic promo code & discount banner engine, cart/wishlist management, real-time shipment notifications, Arabic/English localization
+- 📱 **Platforms:** Released on Google Play & Apple App Store
+
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.silver)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D9%83%D9%88%D8%B2%D9%85%D8%AA%D9%83-%D9%81%D8%B6%D8%A9/id6746095779)
+
+---
+
+### ⏰ 4. Time Attend HR — Enterprise Attendance & HR Management
+> Enterprise human resources and employee attendance tracking mobile app with geofenced check-in/out, leave requests, shift scheduling, and HR reports.
+
+- 🏗️ **Architecture:** Clean Architecture + BLoC + Geofencing / Biometric GPS + REST API
+- 🏢 **Features:** Geofenced check-in/out tracking, multi-tier leave & permission approval workflows, monthly timesheets & overtime calculation, management dashboards
+- 📱 **Platforms:** Released on Google Play & Apple App Store
+
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.time_attend_hr)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/time-attend-hr/id6746160984)
+
+---
+
+### 🚕 5. Taxi Beirut (Rider) — Real-Time Ride-Hailing & QR Wallet
+> Real-time passenger ride booking app with live GPS map navigation, dynamic fare calculation, and instant QR balance wallet payments.
+
+- 📍 **Features:** Real-time driver location tracking via Google Maps SDK, dynamic fare engine, VOIP push dispatch alerts, QR Code credit transfers
+- 📱 **Platforms:** Released on Google Play & Apple App Store
+
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taxi.md_soft.taxi_customer_app)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA/id6748995437)
+
+---
+
+### 🏥 6. VA Note Clinic — Healthcare & Patient Management
 > Clinical workflow and patient record management system with per-visit electronic health records and automated appointment reminders.
 
 - 🏗️ **Architecture:** Clean Architecture + MVVM + Cloud Firestore
@@ -146,17 +193,8 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-### 🚖 3. Taxi Beirut — Ride-Hailing System & FinTech Ecosystem
-> Two-app ecosystem: Customer ride-booking app + Agent merchant wallet dashboard.
-
-- 📍 **Features:** Real-time ride tracking via Google Maps SDK, dynamic fare engine, VOIP push dispatch alerts, QR Code merchant wallet top-ups
-- 📱 **Customer App:** [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taxi.md_soft.taxi_customer_app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA/id6748995437)
-- 💼 **Agent App:** [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.taxibeirutagent) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/taxi-beirut-agent/id6760011080)
-
----
-
-### 🏫 4. Iraqi Private Schools (IPS) — EdTech & School Administration
-> Institutional school management application connecting administrators, teachers, and guardians.
+### 🏫 7. Iraqi Private Schools (IPS) — EdTech & School Administration
+> Institutional school management application connecting administrators, teachers, and guardians through instantaneous event notifications and live attendance tracking.
 
 - 🔔 **Features:** Daily student attendance check-ins, absence notifications, academic event calendar, targeted class announcements
 - 📱 **Platforms:** Released on Google Play & Apple App Store
@@ -170,7 +208,7 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ```
 💼 Flutter Developer @ MDSoft (Jan 2025 – Present | Full-Time | Egypt)
-  • Developed & maintained 4 production apps published on Google Play & App Store.
+  • Developed & maintained 7+ production apps published on Google Play & App Store.
   • Optimized Balsan app startup load time by 30% via lazy loading and code splitting.
   • Created & published adaptive_video_player and osm_location_picker on pub.dev.
   • Configured automated GitHub Actions CI/CD pipelines saving 5+ hours per week.
@@ -237,7 +275,7 @@ print(result?.latLng?.latitude);  // 33.315241
 
 <br /><br />
 
-[![Production Apps](https://img.shields.io/badge/Production_Apps-4+_Shipped-00B4D8?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/ahmedalam782)
+[![Production Apps](https://img.shields.io/badge/Production_Apps-7+_Shipped-00B4D8?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/ahmedalam782)
 [![GitHub Followers](https://img.shields.io/github/followers/ahmedalam782?style=for-the-badge&logo=github&color=0077B6&label=Followers)](https://github.com/ahmedalam782?tab=followers)
 [![pub.dev Downloads](https://img.shields.io/pub/dm/adaptive_video_player?style=for-the-badge&logo=dart&color=00B4D8&label=Package%20Downloads)](https://pub.dev/packages/adaptive_video_player)
 [![pub.dev Likes](https://img.shields.io/pub/likes/adaptive_video_player?style=for-the-badge&logo=dart&color=0077B6&label=Package%20Likes)](https://pub.dev/packages/adaptive_video_player)
