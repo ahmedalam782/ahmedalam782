@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Flutter+Developer+%F0%9F%93%B1;7%2B+Production+Apps+on+Play+%26+App+Store+%F0%9F%9A%80;30%25+App+Startup+Speed+Optimization+%E2%9A%A1;Author+of+adaptive_video_player+(376%2B+Downloads)+%F0%9F%93%A6;5%2B+Hours%2FWeek+Saved+via+CI%2FCD+Pipelines+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="center">
+  <a href="https://ahmed-portfolio-six-lovat.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://linkedin.com/in/ahmedmohamedalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ahmedalam4887482@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://wa.me/201559555092"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -17,6 +18,7 @@
 
 ## ⚡ Quick Pitch & Bio
 
+> 🌐 **Interactive Portfolio**: [ahmed-portfolio-six-lovat.vercel.app](https://ahmed-portfolio-six-lovat.vercel.app/)  
 > 👋 **Hi, I'm Ahmed Mohamed Osman (Ahmed Alam)** — a **Flutter Developer** with **2+ years of production experience** shipping **7+ cross-platform mobile apps** on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (376+ downloads & 160/160 Pub Points score on pub.dev) and **`osm_location_picker`**. Specializing in Clean Architecture, BLoC/Cubit state management, performance optimization (cutting startup time by 30%), automated CI/CD releases (saving 5+ hours/week), and 85% widget testing coverage.
 
 ---
@@ -26,6 +28,7 @@
 ```dart
 class AhmedOsman extends FlutterDeveloper {
   final String location     = "Benha, Qalyubia, Egypt 🇪🇬";
+  final String portfolio    = "https://ahmed-portfolio-six-lovat.vercel.app/";
   final String currentRole  = "Flutter Developer @ MDSoft";
   final String education    = "B.Sc. Computer Science — Benha University (Very Good)";
   final String experience   = "2+ Years Production Mobile Experience";
