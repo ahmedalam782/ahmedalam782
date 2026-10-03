@@ -18,7 +18,7 @@
 
 ## ⚡ Quick Pitch & Bio
 
-> 🌐 **Interactive Portfolio**: [ahmed-portfolio-six-lovat.vercel.app](https://ahmed-portfolio-six-lovat.vercel.app/)  
+> 🌐 **Live Website**: [ahmed-portfolio-six-lovat.vercel.app](https://ahmed-portfolio-six-lovat.vercel.app/)  
 > 👋 **Hi, I'm Ahmed Mohamed Osman (Ahmed Alam)** — a **Flutter Developer** with **2+ years of production experience** shipping **7+ cross-platform mobile apps** on Google Play and the Apple App Store. Creator of **`adaptive_video_player`** (376+ downloads & 160/160 Pub Points score on pub.dev) and **`osm_location_picker`**. Specializing in Clean Architecture, BLoC/Cubit state management, performance optimization (cutting startup time by 30%), automated CI/CD releases (saving 5+ hours/week), and 85% widget testing coverage.
 
 ---
@@ -120,15 +120,20 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-## 🚀 Featured Production Apps (7+ Shipped)
+## 🚀 Featured Projects
 
 ### 🛒 1. Balsan — E-Commerce & Smart Appliance Marketplace
-> Full-featured marketplace for air conditioners & home appliances featuring live catalog browsing, cart checkout flows, and real-time order tracking.
 
-- 🏗️ **Architecture:** Clean Architecture + MVVM + BLoC/Cubit + GetIt DI
-- ⚡ **Optimization:** Optimized app startup time by **30%** through lazy loading and code splitting.
-- 🗺️ **Features:** Interactive Google Maps store locator & delivery tracker, wishlist, FCM push notifications, offline caching
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+<p align="center">
+  <img src="./assets/projects/balsan.jpg" alt="Balsan" width="720" />
+</p>
+
+> Full-scale e-commerce Flutter app for air conditioning and home appliances, with live catalog browsing, cart flows, and real-time order tracking.
+
+- 🏗️ **Architecture:** Clean Architecture + MVVM + BLoC/Cubit + GetIt
+- ⚡ **Optimization:** Cut app startup time by **30%** through lazy loading and code splitting
+- 🗺️ **Features:** Google Maps store locator and delivery tracker, wishlist, FCM push notifications, offline caching
+- 📱 **Platforms:** Google Play & App Store
 
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.balsan2)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/al-balsan/id6747080711)
@@ -136,59 +141,56 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-### 🚖 2. Taxi Beirut Agent — Fleet Dispatch, Driver Management & Agent Operations
-> Dedicated agency management application for Taxi Beirut fleet, enabling real-time driver tracking, ride dispatching, and agent balance top-ups.
+### 💄 2. Silver Cosmetic (كوزمتك فضة) — Beauty & Cosmetics Marketplace
 
-- 🏗️ **Architecture:** Clean Architecture + BLoC/Cubit + Google Maps SDK + REST API
-- 📍 **Features:** Real-time fleet tracking, dynamic ride dispatching, driver account onboarding & supervision, merchant balance wallet top-ups, instant push dispatch alerts
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+<p align="center">
+  <img src="./assets/projects/silver.jpg" alt="Silver Cosmetic" width="720" />
+</p>
 
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.taxibeirutagent)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/taxi-beirut-agent/id6760011080)
+> Beauty and cosmetics store with categorized catalogs, discount codes, cart and wishlist, and order checkout in Arabic and English.
 
----
-
-### 💄 3. Silver Cosmetic (كوزمتك فضة) — Beauty & Cosmetics Marketplace
-> Full-featured beauty and cosmetics e-commerce mobile application featuring extensive product catalogs, categorized shopping, discount codes, and seamless order checkout.
-
-- 🏗️ **Architecture:** Clean Architecture + BLoC/Cubit + REST API + Cached Network Imaging
-- ✨ **Features:** Multi-category beauty catalog, dynamic promo code & discount banner engine, cart/wishlist management, real-time shipment notifications, Arabic/English localization
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+- 🏗️ **Architecture:** Clean Architecture + BLoC/Cubit + REST API + cached network images
+- ✨ **Features:** Skincare, makeup, and perfume browsing, promo codes, shipment notifications, Arabic/English localization
+- 📱 **Platforms:** Google Play & App Store
 
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.silver)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D9%83%D9%88%D8%B2%D9%85%D8%AA%D9%83-%D9%81%D8%B6%D8%A9/id6746095779)
 
 ---
 
-### ⏰ 4. Time Attend HR — Enterprise Attendance & HR Management
-> Enterprise human resources and employee attendance tracking mobile app with geofenced check-in/out, leave requests, shift scheduling, and HR reports.
+### 🚕 3. Taxi Beirut — Ride-Hailing, Dispatch & Agent Wallet
 
-- 🏗️ **Architecture:** Clean Architecture + BLoC + Geofencing / Biometric GPS + REST API
-- 🏢 **Features:** Geofenced check-in/out tracking, multi-tier leave & permission approval workflows, monthly timesheets & overtime calculation, management dashboards
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+<p align="center">
+  <img src="./assets/projects/taxibeirut.jpg" alt="Taxi Beirut" width="720" />
+</p>
 
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.time_attend_hr)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/time-attend-hr/id6746160984)
+> One ride-hailing product across the customer, driver, and agent apps: live GPS tracking, fare calculation, dispatch, and QR wallet top-ups.
+
+- 🏗️ **Architecture:** Clean Architecture + BLoC/Cubit + Google Maps + REST API
+- 📍 **Features:** Live driver tracking, ride dispatch, driver onboarding, agent balance top-ups, VOIP dispatch alerts, QR credit transfer
+- 📱 **Apps:** Customer · Driver · Agent
+
+[![Customer · Play](https://img.shields.io/badge/Customer_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taxi.md_soft.taxi_customer_app)
+[![Driver · Play](https://img.shields.io/badge/Driver_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.taxiBeirutsDriver)
+[![Agent · Play](https://img.shields.io/badge/Agent_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.taxibeirutagent)
+
+[![Customer · App Store](https://img.shields.io/badge/Customer_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA/id6748995437)
+[![Driver · App Store](https://img.shields.io/badge/Driver_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%82/id6759983693)
+[![Agent · App Store](https://img.shields.io/badge/Agent_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/taxi-beirut-agent/id6760011080)
 
 ---
 
-### 🚕 5. Taxi Beirut (Rider) — Real-Time Ride-Hailing & QR Wallet
-> Real-time passenger ride booking app with live GPS map navigation, dynamic fare calculation, and instant QR balance wallet payments.
+### 🏥 4. VA Note Clinic — Healthcare & Patient Management
 
-- 📍 **Features:** Real-time driver location tracking via Google Maps SDK, dynamic fare engine, VOIP push dispatch alerts, QR Code credit transfers
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+<p align="center">
+  <img src="./assets/projects/vanote.jpg" alt="VA Note Clinic" width="720" />
+</p>
 
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taxi.md_soft.taxi_customer_app)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA/id6748995437)
-
----
-
-### 🏥 6. VA Note Clinic — Healthcare & Patient Management
-> Clinical workflow and patient record management system with per-visit electronic health records and automated appointment reminders.
+> Clinical workflow and patient records, with per-visit notes and automated appointment reminders.
 
 - 🏗️ **Architecture:** Clean Architecture + MVVM + Cloud Firestore
-- 📅 **Features:** Electronic health records, diagnostic history, automated FCM appointment reminders, role-based clinic staff access
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+- 📅 **Features:** Electronic health records, diagnostic history, FCM appointment reminders, role-based clinic staff access
+- 📱 **Platforms:** Google Play & App Store
 
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.vanotesclinic)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/va-note/id6759074915)
@@ -196,14 +198,56 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ---
 
-### 🏫 7. Iraqi Private Schools (IPS) — EdTech & School Administration
-> Institutional school management application connecting administrators, teachers, and guardians through instantaneous event notifications and live attendance tracking.
+### 🏫 5. Aman (أمان) — School Attendance & Parent Announcements
 
-- 🔔 **Features:** Daily student attendance check-ins, absence notifications, academic event calendar, targeted class announcements
-- 📱 **Platforms:** Released on Google Play & Apple App Store
+<p align="center">
+  <img src="./assets/projects/aman.jpg" alt="Aman" width="720" />
+</p>
 
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.iraqi_private_schools)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/iraqi-private-schools-ips/id6751548277)
+> Parent app for following a child's attendance and receiving school announcements.
+
+- 👨‍👩‍👧 **Features:** Sign in with a username or family code, follow each child, daily attendance and departure, announcements for events, holidays, and meetings
+- 📱 **Platforms:** Google Play & App Store
+
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.timmy_attend_family)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%A3%D9%85%D8%A7%D9%86-aman/id6749891970)
+
+---
+
+### 🛺 6. Tok Tok — Tuk-Tuk Ride-Hailing, Dispatch & Driver Wallet
+
+<p align="center">
+  <img src="./assets/projects/toktok.jpg" alt="Tok Tok" width="720" />
+</p>
+
+> Tuk-tuk ride-hailing suite with customer booking, live driver dispatch, and a driver wallet for balance top-ups.
+
+- 📍 **Features:** Customer, driver, and agent apps, phone onboarding, live trip request and accept/decline, wallet deductions and top-ups, post-trip ratings
+- 📱 **Apps:** Customer · Driver · Agent
+
+[![Customer · Play](https://img.shields.io/badge/Customer_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.tok_tok_taxi_user)
+[![Driver · Play](https://img.shields.io/badge/Driver_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.tok_tok_taxi_drivers)
+[![Agent · Play](https://img.shields.io/badge/Agent_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mdsoft.tok_tok_taxi_agent)
+
+[![Customer · App Store](https://img.shields.io/badge/Customer_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/om/app/id6749179422)
+[![Driver · App Store](https://img.shields.io/badge/Driver_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/om/app/id6749203906)
+[![Agent · App Store](https://img.shields.io/badge/Agent_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/om/app/id6749199890)
+
+---
+
+### 🍽️ 7. Bait Al-Nakha (بيت النكهة) — Luxury Food Delivery Concept
+
+<p align="center">
+  <img src="./assets/projects/bait_al_nakha.jpg" alt="Bait Al-Nakha" width="720" />
+</p>
+
+> Luxury food delivery concept for Baghdad with a gamified ordering experience. Menu, cart, points and rewards, and chef, driver, and agent flows around the same order.
+
+- 🎨 **Role:** Flutter Developer / UI Design
+- ✨ **Features:** Luxury menu and add-ons, promo checkout, points and celebrity picks, personalized laser name on the meal
+- 🧪 **Status:** Concept — not listed on the stores yet
+
+[![Portfolio](https://img.shields.io/badge/View_on_Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-six-lovat.vercel.app/)
 
 ---
 
@@ -211,17 +255,18 @@ print(result?.latLng?.latitude);  // 33.315241
 
 ```
 💼 Flutter Developer @ MDSoft (Jan 2025 – Present | Full-Time | Egypt)
-  • Developed & maintained 7+ production apps published on Google Play & App Store.
+  • Developed & maintained production Flutter apps published on Google Play & App Store.
   • Optimized Balsan app startup load time by 30% via lazy loading and code splitting.
-  • Created & published adaptive_video_player and osm_location_picker on pub.dev.
-  • Configured automated GitHub Actions CI/CD pipelines saving 5+ hours per week.
+  • Shipped live location tracking, Google Maps, VOIP notifications, and QR wallet top-ups for Taxi Beirut.
+  • Grew adaptive_video_player on pub.dev to 376+ downloads and 19 likes across all 6 Flutter platforms.
+  • Configured automated GitHub Actions CI/CD pipelines, cutting manual release time by 5+ hours per week.
 
 🎓 Flutter Developer (Part-Time) @ Elevate Tech (Oct 2025 – Mar 2026 | Remote)
   • Shipped production features remotely within the Tech Development Department.
   • Automated widget tests covering 85% of UI components, improving release confidence.
   • Clean Architecture, BLoC, Repository Pattern, Dependency Injection (GetIt), & SOLID.
 
-💻 IT & RMS Support Specialist @ Total Stores (Jun 2022 – Aug 2023 | Full-Time | Egypt)
+💻 Microsoft Dynamics RMS Support & IT Specialist @ Total Stores (Jun 2022 – Aug 2023 | Full-Time | Egypt)
   • Automated follow-up email sequences in RMS, cutting manual follow-up time by 10+ hrs/week.
   • Generated Microsoft Dynamics RMS reports to shape inventory and sales decisions.
 ```
@@ -234,6 +279,7 @@ print(result?.latLng?.latitude);  // 33.315241
 - 🎓 **Flutter Advanced Bootcamp Training Program** — Elevate Tech (Jun 2026)
 - 🎖️ **AMIT Flutter Diploma** — 125-Hour Intensive | **Grade: 99% Distinction** (Jan 2024)
 - 📜 **Route IT Center Flutter Development Diploma** (Sep 2024)
+- 🧭 **Introduction to Agile Development and Scrum** — IBM & Coursera (Sep 2026)
 - 🔬 **UC San Diego & Coursera Data Structures & Algorithms** — 6-Course Specialization (Apr 2020)
 - 🎓 **B.Sc. Computer Science** — Benha University, Faculty of Science | **Grade: Very Good** (Sep 2020)
 
