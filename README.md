@@ -125,7 +125,7 @@ print(result?.latLng?.latitude);  // 33.315241
 ### 🛒 1. Balsan — E-Commerce & Smart Appliance Marketplace
 
 <p align="center">
-  <img src="./assets/projects/balsan-cover.jpg" alt="Balsan" width="720" />
+  <img src="./assets/projects/balsan-portfolio.jpg" alt="Balsan" width="720" />
 </p>
 
 > Full-scale e-commerce Flutter app for air conditioning and home appliances, with live catalog browsing, cart flows, and real-time order tracking.
@@ -144,7 +144,7 @@ print(result?.latLng?.latitude);  // 33.315241
 ### 💄 2. Silver Cosmetic (كوزمتك فضة) — Beauty & Cosmetics Marketplace
 
 <p align="center">
-  <img src="./assets/projects/silver-cover.jpg" alt="Silver Cosmetic" width="720" />
+  <img src="./assets/projects/silver-portfolio.jpg" alt="Silver Cosmetic" width="720" />
 </p>
 
 > Beauty and cosmetics store with categorized catalogs, discount codes, cart and wishlist, and order checkout in Arabic and English.
@@ -201,7 +201,7 @@ print(result?.latLng?.latitude);  // 33.315241
 ### 🏫 5. Aman (أمان) — School Attendance & Parent Announcements
 
 <p align="center">
-  <img src="./assets/projects/aman-cover.jpg" alt="Aman" width="720" />
+  <img src="./assets/projects/aman-portfolio.jpg" alt="Aman" width="720" />
 </p>
 
 > Parent app for following a child's attendance and receiving school announcements.
