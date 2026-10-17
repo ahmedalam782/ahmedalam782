@@ -27,7 +27,7 @@
 ```dart
 class AhmedOsman extends FlutterDeveloper {
   final String alias        = "Ahmed Alam";
-  final String location     = "Benha, Qalyubia, Egypt 🇪🇬";
+  final String location     = "Cairo, Egypt 🇪🇬";
   final String degree       = "B.Sc. Computer Science — Benha University (Very Good)";
   final String currentRole  = "Flutter Developer @ MDSoft";
   final String portfolio    = "https://ahmed-portfolio-six-lovat.vercel.app/";
@@ -40,6 +40,25 @@ class AhmedOsman extends FlutterDeveloper {
     "Automated CI/CD (GitHub Actions multi-flavor pipelines saving 5+ hrs/week)",
     "Test-Driven Reliability (85% automated widget & unit test coverage)",
   ];
+
+  final Map<String, String> shippedProductionApps = {
+    "Balsan": "E-Commerce & Smart Appliances (Google Play · App Store · Web)",
+    "Silver Cosmetic": "Beauty & Cosmetics Marketplace (Google Play · App Store)",
+    "Taxi Beirut": "Customer, Driver & Agent Ride-Hailing Suite (Google Play · App Store)",
+    "VA Note Clinic": "Healthcare Records & Clinical EHR (Google Play · App Store · Web)",
+    "Aman": "EdTech Student Attendance & Parent Circulars (Google Play · App Store)",
+    "Tok Tok": "Tuk-Tuk Mobility Booking, Dispatch & Wallet (Google Play · App Store)",
+    "Bait Al-Nakha": "Luxury Food Delivery Ordering Concept (Portfolio Showcase)",
+  };
+
+  final Map<String, String> openSourceLibraries = {
+    "adaptive_video_player": "YouTube + Direct Video across 6 platforms (160/160 Pub Points)",
+    "osm_location_picker": "Zero-API-key OpenStreetMap location selector for Flutter",
+    "Fruit-Hub": "Clean Architecture Flutter e-commerce store with BLoC",
+    "elevate_online_exam": "Online examination platform with strict Clean Architecture",
+    "elevate_tracking_app": "Real-time courier GPS tracking with Google Maps",
+    "Markaz-ElAmal-APP": "Rehabilitation & clinical appointment scheduling mobile app",
+  };
 
   String get mission => "Architecting mission-critical, buttery-smooth mobile applications "
                         "with uncompromised modularity and elegant user experience.";
@@ -115,7 +134,23 @@ print(result?.latLng?.latitude);  // Geo coordinates
 
 ---
 
-### 🚀 Production Portfolio Showcase
+### 🚀 Production Applications Master Directory
+
+The following matrix provides an executive overview of all 7 published production applications engineered and maintained in production:
+
+| # | Application | Domain | Architecture & Technologies | Live Releases | Key Milestone / Impact |
+|:---:|:---|:---|:---|:---|:---|
+| **01** | **Balsan** | E-Commerce & Appliances | Clean Architecture · MVVM · BLoC · GetIt · Google Maps | [![Play](https://img.shields.io/badge/Play-190B12?style=flat-square&logo=google-play&logoColor=F8F0F3&color=451126)](https://play.google.com/store/apps/details?id=com.mdsoft.balsan2) [![AppStore](https://img.shields.io/badge/AppStore-190B12?style=flat-square&logo=apple&logoColor=F8F0F3&color=701A3D)](https://apps.apple.com/eg/app/al-balsan/id6747080711) [![Web](https://img.shields.io/badge/Web-190B12?style=flat-square&logo=google-chrome&logoColor=F8F0F3&color=451126)](https://www.al-balsan.com) | **-30% Startup Latency** via code splitting |
+| **02** | **Silver Cosmetic** | Beauty & Cosmetics Retail | Clean Architecture · BLoC/Cubit · REST · Cached Images | [![Play](https://img.shields.io/badge/Play-190B12?style=flat-square&logo=google-play&logoColor=F8F0F3&color=451126)](https://play.google.com/store/apps/details?id=com.mdsoft.silver) [![AppStore](https://img.shields.io/badge/AppStore-190B12?style=flat-square&logo=apple&logoColor=F8F0F3&color=701A3D)](https://apps.apple.com/eg/app/%D9%83%D9%88%D8%B2%D9%85%D8%AA%D9%83-%D9%81%D8%B6%D8%A9/id6746095779) | Categorized catalog with dual AR/EN RTL support |
+| **03** | **Taxi Beirut** | Ride-Hailing & FinTech Suite | Clean Architecture · BLoC · Maps Geofencing · VOIP | Customer, Driver & Agent on Play & App Store | Live GPS telemetry & QR wallet top-ups |
+| **04** | **VA Note Clinic** | Healthcare & Clinical EHR | Clean Architecture · MVVM · Cloud Firestore · FCM | [![Play](https://img.shields.io/badge/Play-190B12?style=flat-square&logo=google-play&logoColor=F8F0F3&color=451126)](https://play.google.com/store/apps/details?id=com.mdsoft.vanotesclinic) [![AppStore](https://img.shields.io/badge/AppStore-190B12?style=flat-square&logo=apple&logoColor=F8F0F3&color=701A3D)](https://apps.apple.com/us/app/va-note/id6759074915) [![Web](https://img.shields.io/badge/Web-190B12?style=flat-square&logo=google-chrome&logoColor=F8F0F3&color=451126)](https://va-note.com/clinic/) | Chronological visit EHR & auto appointment reminders |
+| **05** | **Aman (أمان)** | EdTech Student Attendance | Clean Architecture · BLoC · FCM Notifications | [![Play](https://img.shields.io/badge/Play-190B12?style=flat-square&logo=google-play&logoColor=F8F0F3&color=451126)](https://play.google.com/store/apps/details?id=com.mdsoft.timmy_attend_family) [![AppStore](https://img.shields.io/badge/AppStore-190B12?style=flat-square&logo=apple&logoColor=F8F0F3&color=701A3D)](https://apps.apple.com/eg/app/%D8%A3%D9%85%D8%A7%D9%86-aman/id6749891970) | Multi-child timeline & instant arrival alerts |
+| **06** | **Tok Tok** | Tuk-Tuk Mobility & Wallet | Clean Architecture · BLoC · Live Driver Dispatch | Customer, Driver & Agent on Play & App Store | Real-time bidding, trip dispatch & agent wallet |
+| **07** | **Bait Al-Nakha** | Gourmet Food Delivery | Clean Architecture · Gamified UI/UX Design | [![Portfolio](https://img.shields.io/badge/Showcase-190B12?style=flat-square&logo=vercel&logoColor=F8F0F3&color=451126)](https://ahmed-portfolio-six-lovat.vercel.app/) | Interactive customer testing prototype |
+
+---
+
+### 📱 Detailed Production Project Showcases
 
 #### 🛒 1. Balsan — E-Commerce & Smart Appliance Marketplace
 
@@ -230,6 +265,22 @@ print(result?.latLng?.latitude);  // Geo coordinates
 
 ---
 
+### 💻 Featured Open-Source Repositories & Architecture Samples
+
+Alongside production systems, these public repositories showcase clean architectural implementation, state management patterns, and SDK integrations:
+
+| Repository | Domain / Focus | Key Technologies | Link |
+|:---|:---|:---|:---:|
+| **[Fruit-Hub](https://github.com/ahmedalam782/Fruit-Hub)** | E-Commerce Grocery Store | Clean Architecture · BLoC · Supabase/Firebase Auth · Repository Pattern | [GitHub](https://github.com/ahmedalam782/Fruit-Hub) |
+| **[elevate_online_exam](https://github.com/ahmedalam782/elevate_online_exam)** | Digital Examination Engine | Clean Architecture · BLoC · Timed State Machine · Result Analytics | [GitHub](https://github.com/ahmedalam782/elevate_online_exam) |
+| **[elevate_tracking_app](https://github.com/ahmedalam782/elevate_tracking_app)** | Live Geolocation Telemetry | Google Maps SDK · Location Streams · Polyline Routing · WebSockets | [GitHub](https://github.com/ahmedalam782/elevate_tracking_app) |
+| **[Markaz-ElAmal-APP](https://github.com/ahmedalam782/Markaz-ElAmal-APP)** | Clinical Therapy Scheduling | Clean Architecture · BLoC · Patient Booking · Service Catalog | [GitHub](https://github.com/ahmedalam782/Markaz-ElAmal-APP) |
+| **[elevate_flower_app](https://github.com/ahmedalam782/elevate_flower_app)** | Boutique Delivery Mobile App | Clean Architecture · Cart State · REST API Integration | [GitHub](https://github.com/ahmedalam782/elevate_flower_app) |
+| **[dynamic_app_icon_switcher](https://github.com/ahmedalam782/dynamic_app_icon_switcher)** | Native Platform Channels | Flutter MethodChannels · Android & iOS Dynamic Launcher Icon Switch | [GitHub](https://github.com/ahmedalam782/dynamic_app_icon_switcher) |
+| **[clean_flutter_projects](https://github.com/ahmedalam782/clean_flutter_projects)** | Architectural Reference Boilerplate | Clean Architecture · SOLID · GetIt Dependency Injection · Testing Scaffold | [GitHub](https://github.com/ahmedalam782/clean_flutter_projects) |
+
+---
+
 ### 💼 Verified Professional Experience
 
 ```
@@ -289,11 +340,22 @@ print(result?.latLng?.latitude);  // Geo coordinates
 
 ---
 
-### 📈 GitHub Contribution Activity
+### 📈 GitHub Contribution Activity & Engineering Stats
 
 <div align="center">
 
-[![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalam782&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area_color=451126&title_color=F8F0F3&hide_border=true&area=true)](https://github.com/ahmedalam782)
+<a href="https://github.com/ahmedalam782">
+  <img src="https://ghchart.rshah.org/C77B9B/ahmedalam782" alt="Ahmed's GitHub Contribution Calendar" width="100%" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/ahmedalam782">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalam782&show_icons=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126" alt="Ahmed's GitHub Stats" height="165" />
+</a>
+<a href="https://github.com/ahmedalam782">
+  <img src="https://streak-stats.demolab.com/?user=ahmedalam782&background=10070C&border=451126&stroke=701A3D&ring=C77B9B&fire=FF4D8D&currStreakNum=F8F0F3&sideNums=E5B5C7&currStreakLabel=C77B9B&sideLabels=C77B9B&dates=E5B5C7" alt="Ahmed's GitHub Streak" height="165" />
+</a>
 
 </div>
 
