@@ -288,6 +288,53 @@ async function main() {
 
   fs.writeFileSync(targetPath, svgContent, 'utf8');
   console.log(`Successfully generated and saved ${targetPath}`);
+
+  // Automatically sync README.md with live package stats
+  updateReadme(p1, p2);
+}
+
+function updateReadme(p1, p2) {
+  const readmePath = path.join(__dirname, '..', 'README.md');
+  if (!fs.existsSync(readmePath)) return;
+  let content = fs.readFileSync(readmePath, 'utf8');
+
+  const totalCombined = (p1.totalDownloads || 0) + (p2.totalDownloads || 0);
+  const p1TotalStr = formatNumber(p1.totalDownloads);
+  const p2TotalStr = formatNumber(p2.totalDownloads);
+  const totalStr = formatNumber(totalCombined);
+
+  // 1. Update Executive Summary
+  const execSummaryRegex = /> Creator of \*\*\[`adaptive_video_player`\]\([^)]+\)\*\*[^·\n]+·[^)]+\) and \*\*\[`osm_location_picker`\]\([^)]+\)\*\*[^\n]*/;
+  const newSummary = `> Creator of **[\`adaptive_video_player\`](https://pub.dev/packages/adaptive_video_player)** (${p1TotalStr}+ downloads · ${p1.grantedPoints}/${p1.maxPoints} pub points) and **[\`osm_location_picker\`](https://pub.dev/packages/osm_location_picker)** (${p2TotalStr}+ downloads · ${p2.grantedPoints}/${p2.maxPoints} pub points) — totaling **${totalStr}+ downloads** across pub.dev. Deeply specialized in **Clean Architecture**, reactive state management with **BLoC/Cubit**, **30% app load-time optimizations**, automated CI/CD deployment pipelines saving 5+ engineering hours per week, and rigorous **85% widget test coverage**.`;
+
+  if (execSummaryRegex.test(content)) {
+    content = content.replace(execSummaryRegex, newSummary);
+  }
+
+  // 2. Clean up location emoji that renders as monospace 'EG' on Windows
+  content = content.replace(
+    /final String location\s*=\s*"Cairo, Egypt\s*🇪🇬";/,
+    'final String location        = "Cairo, Egypt";'
+  );
+
+  // 3. Keep Package header versions in sync
+  content = content.replace(
+    /#### 🎥 \[`adaptive_video_player`\]\([^)]+\) `v[^`]+`/,
+    `#### 🎥 [\`adaptive_video_player\`](https://pub.dev/packages/adaptive_video_player) \`v${p1.version}\``
+  );
+  content = content.replace(
+    /#### 🗺️ \[`osm_location_picker`\]\([^)]+\) `v[^`]+`/,
+    `#### 🗺️ [\`osm_location_picker\`](https://pub.dev/packages/osm_location_picker) \`v${p2.version}\``
+  );
+
+  // 4. Keep Experience section package stats in sync
+  content = content.replace(
+    /• Authored and published adaptive_video_player \([^)]+\)/,
+    `• Authored and published adaptive_video_player (${p1TotalStr}+ downloads, ${p1.grantedPoints}/${p1.maxPoints} pub points, ${p1.likeCount} likes)`
+  );
+
+  fs.writeFileSync(readmePath, content, 'utf8');
+  console.log(`Successfully synchronized live metrics in ${readmePath}`);
 }
 
 main().catch((err) => {

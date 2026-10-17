@@ -18,7 +18,7 @@
 
 > **Ahmed Mohamed Osman (Ahmed Alam)** is a **Mid-Level Flutter Developer** and **Open-Source Package Author** with **2+ years of production experience** engineering resilient cross-platform mobile ecosystems for Google Play and Apple App Store. 
 > 
-> Creator of **[`adaptive_video_player`](https://pub.dev/packages/adaptive_video_player)** (376+ downloads · 160/160 pub points) and **[`osm_location_picker`](https://pub.dev/packages/osm_location_picker)**. Deeply specialized in **Clean Architecture**, reactive state management with **BLoC/Cubit**, **30% app load-time optimizations**, automated CI/CD deployment pipelines saving 5+ engineering hours per week, and rigorous **85% widget test coverage**.
+> Creator of **[`adaptive_video_player`](https://pub.dev/packages/adaptive_video_player)** (3.2k+ downloads · 160/160 pub points) and **[`osm_location_picker`](https://pub.dev/packages/osm_location_picker)** (683+ downloads · 160/160 pub points) — totaling **3.9k+ downloads** across pub.dev. Deeply specialized in **Clean Architecture**, reactive state management with **BLoC/Cubit**, **30% app load-time optimizations**, automated CI/CD deployment pipelines saving 5+ engineering hours per week, and rigorous **85% widget test coverage**.
 
 ---
 
@@ -27,7 +27,7 @@
 ```dart
 class AhmedOsman extends FlutterDeveloper {
   final String alias        = "Ahmed Alam";
-  final String location     = "Cairo, Egypt 🇪🇬";
+  final String location     = "Cairo, Egypt";
   final String degree       = "B.Sc. Computer Science — Benha University (Very Good)";
   final String currentRole  = "Flutter Developer @ MDSoft";
   final String portfolio    = "https://ahmed-portfolio-six-lovat.vercel.app/";
@@ -314,7 +314,7 @@ Alongside production systems, these public repositories showcase clean architect
   • Architected & maintained 7+ production Flutter applications on Google Play & Apple App Store.
   • Accelerated Balsan startup load time by 30% via route-based code splitting and lazy component init.
   • Integrated real-time GPS telemetry, Google Maps SDK, VOIP notifications, and QR wallet deposits for Taxi Beirut.
-  • Authored and published adaptive_video_player (376+ downloads, 160/160 pub points, 19+ likes) across 6 Flutter platforms.
+  • Authored and published adaptive_video_player (3.2k+ downloads, 160/160 pub points, 19 likes) across 6 Flutter platforms.
   • Established automated GitHub Actions CI/CD pipelines, eliminating 5+ hours of manual build and release tasks weekly.
 
 🎓 Flutter Developer (Part-Time) @ Elevate Tech (Oct 2025 – Mar 2026 | Remote)
