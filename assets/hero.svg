@@ -141,7 +141,7 @@
       <animate attributeName="r" values="4;10;13" dur="2.4s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.8;0.2;0" dur="2.4s" repeatCount="indefinite" />
     </circle>
-    <text x="30" y="17" fill="#E5B5C7" font-size="11" font-weight="600" letter-spacing="1.2" class="mono-font">FLUTTER ARCHITECT · OPEN-SOURCE</text>
+    <text x="30" y="17" fill="#E5B5C7" font-size="11" font-weight="600" letter-spacing="1.2" class="mono-font">MID-LEVEL FLUTTER · OPEN-SOURCE</text>
   </g>
 
   <!-- Main Headline Name -->

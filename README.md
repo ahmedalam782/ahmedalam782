@@ -16,7 +16,7 @@
 
 ### 🏛️ Executive Summary
 
-> **Ahmed Mohamed Osman (Ahmed Alam)** is a **Senior Flutter Developer** and **Open-Source Package Author** with **2+ years of production experience** engineering resilient cross-platform mobile ecosystems for Google Play and Apple App Store. 
+> **Ahmed Mohamed Osman (Ahmed Alam)** is a **Mid-Level Flutter Developer** and **Open-Source Package Author** with **2+ years of production experience** engineering resilient cross-platform mobile ecosystems for Google Play and Apple App Store. 
 > 
 > Creator of **[`adaptive_video_player`](https://pub.dev/packages/adaptive_video_player)** (376+ downloads · 160/160 pub points) and **[`osm_location_picker`](https://pub.dev/packages/osm_location_picker)**. Deeply specialized in **Clean Architecture**, reactive state management with **BLoC/Cubit**, **30% app load-time optimizations**, automated CI/CD deployment pipelines saving 5+ engineering hours per week, and rigorous **85% widget test coverage**.
 
