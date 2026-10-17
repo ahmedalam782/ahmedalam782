@@ -129,7 +129,7 @@
       <!-- Monthly Downloads Tile -->
       <rect x="184" y="0" width="84" height="64" rx="6" fill="#10070C" stroke="#701A3D" stroke-width="0.8" />
       <text x="226" y="24" fill="#C77B9B" font-size="9" font-weight="600" text-anchor="middle" class="mono">MONTHLY</text>
-      <text x="226" y="46" fill="#FF5C8D" font-size="14" font-weight="800" text-anchor="middle" class="mono">740</text>
+      <text x="226" y="46" fill="#FF5C8D" font-size="14" font-weight="800" text-anchor="middle" class="mono">768</text>
       <text x="226" y="58" fill="#E5B5C7" font-size="8" font-weight="500" text-anchor="middle" class="mono">DOWNLOADS</text>
 
       <!-- Total Downloads Tile -->
