@@ -1,0 +1,93 @@
+<svg width="100%" height="100%" viewBox="0 0 880 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vanote-bg" x1="0" y1="0" x2="880" y2="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10070C" />
+      <stop offset="50%" stop-color="#190B12" />
+      <stop offset="100%" stop-color="#10070C" />
+    </linearGradient>
+
+    <linearGradient id="vanote-border" x1="0" y1="0" x2="880" y2="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#451126" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#C77B9B" stop-opacity="0.7" />
+    </linearGradient>
+
+    <linearGradient id="vanote-laser" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0" />
+      <stop offset="25%" stop-color="#701A3D" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#FF5C8D" stop-opacity="0.9" />
+      <stop offset="75%" stop-color="#C77B9B" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#451126" stop-opacity="0" />
+    </linearGradient>
+
+    <radialGradient id="vanote-glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(740 62) scale(140 50)">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#10070C" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="vanote-grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#701A3D" stroke-opacity="0.1" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, Menlo, Monaco, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Base Canvas -->
+  <rect width="880" height="125" rx="10" fill="url(#vanote-bg)" />
+  <rect width="880" height="125" rx="10" fill="url(#vanote-grid)" />
+  <rect x="1" y="1" width="878" height="123" rx="9" fill="none" stroke="url(#vanote-border)" stroke-width="1.2" />
+
+  <!-- Ambient Glow -->
+  <ellipse cx="740" cy="62" rx="140" ry="40" fill="url(#vanote-glow)" />
+
+  <!-- Animated Laser Sweep -->
+  <path d="M 36 114 L 844 114" stroke="url(#vanote-laser)" stroke-width="1.6" stroke-dasharray="140 220" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="600; 0; -600" dur="5.5s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Left Content -->
+  <g transform="translate(36, 24)">
+    <circle cx="6" cy="6" r="3.5" fill="#C77B9B">
+      <animate attributeName="r" values="3;5.5;3" dur="2.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+    <text x="18" y="10" fill="#C77B9B" font-size="10.5" font-weight="600" letter-spacing="1.4" class="mono">
+      04 · HEALTHCARE EHR &amp; CLINICAL WORKFLOW · PLAY STORE &amp; APP STORE
+    </text>
+  </g>
+
+  <!-- Main Headline Title -->
+  <text x="36" y="66" fill="#FFFFFF" font-size="22" font-weight="800" letter-spacing="-0.2" class="sans">
+    VA NOTE CLINIC
+  </text>
+  <text x="225" y="66" fill="#E5B5C7" font-size="13" font-weight="500" class="sans">
+    — Electronic Health Records &amp; Patient Appointments
+  </text>
+
+  <!-- Sub-bar Tags -->
+  <g transform="translate(36, 82)">
+    <rect width="138" height="20" rx="4" fill="#190B12" stroke="#701A3D" stroke-width="0.8" />
+    <text x="69" y="14" fill="#F8F0F3" font-size="9.5" font-weight="700" text-anchor="middle" class="mono">CLOUD FIRESTORE</text>
+
+    <rect x="146" y="0" width="132" height="20" rx="4" fill="#190B12" stroke="#451126" stroke-width="0.8" />
+    <text x="212" y="14" fill="#E5B5C7" font-size="9.5" font-weight="600" text-anchor="middle" class="mono">FCM APPOINTMENTS</text>
+
+    <rect x="286" y="0" width="144" height="20" rx="4" fill="#10070C" stroke="#701A3D" stroke-width="0.8" />
+    <text x="358" y="14" fill="#C77B9B" font-size="9.5" font-weight="600" text-anchor="middle" class="mono">ROLE ACCESS CONTROL</text>
+  </g>
+
+  <!-- Right Rotating Constellation -->
+  <g transform="translate(770, 62)">
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#701A3D" stroke-width="1" stroke-dasharray="8 5" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#C77B9B" stroke-width="1.2" stroke-dasharray="22 10" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="5" fill="#E5B5C7" />
+    <circle cx="18" cy="0" r="2.8" fill="#F8F0F3" />
+  </g>
+</svg>

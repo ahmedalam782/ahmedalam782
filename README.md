@@ -84,7 +84,13 @@ class AhmedOsman extends FlutterDeveloper {
 
 ### 📦 Open Source Packages
 
-#### 🎥 [adaptive_video_player](https://pub.dev/packages/adaptive_video_player) `v1.3.1`
+<div align="center">
+  <img src="./assets/packages-animated.svg" alt="Live pub.dev Package Ecosystem Statistics" width="100%" />
+</div>
+
+<br />
+
+#### 🎥 [adaptive_video_player](https://pub.dev/packages/adaptive_video_player) `v1.3.3`
 [![pub package](https://img.shields.io/pub/v/adaptive_video_player.svg?color=451126&labelColor=190B12)](https://pub.dev/packages/adaptive_video_player)
 [![Pub Points](https://img.shields.io/pub/points/adaptive_video_player?color=701A3D&labelColor=190B12)](https://pub.dev/packages/adaptive_video_player/score)
 [![Downloads](https://img.shields.io/pub/dm/adaptive_video_player?color=451126&labelColor=190B12)](https://pub.dev/packages/adaptive_video_player)
@@ -109,7 +115,7 @@ AdaptiveVideoPlayer(
 
 ---
 
-#### 🗺️ [osm_location_picker](https://pub.dev/packages/osm_location_picker) `v1.0.4`
+#### 🗺️ [osm_location_picker](https://pub.dev/packages/osm_location_picker) `v1.0.5`
 [![pub package](https://img.shields.io/pub/v/osm_location_picker.svg?color=451126&labelColor=190B12)](https://pub.dev/packages/osm_location_picker)
 [![Pub Points](https://img.shields.io/pub/points/osm_location_picker?color=701A3D&labelColor=190B12)](https://pub.dev/packages/osm_location_picker/score)
 [![Downloads](https://img.shields.io/pub/dm/osm_location_picker?color=451126&labelColor=190B12)](https://pub.dev/packages/osm_location_picker)
@@ -134,6 +140,12 @@ print(result?.latLng?.latitude);  // Geo coordinates
 
 ---
 
+<div align="center">
+  <img src="./assets/projects-header.svg" alt="Featured Mobile Applications" width="100%" />
+</div>
+
+<br />
+
 ### 🚀 Production Applications Master Directory
 
 The following matrix provides an executive overview of all 7 published production applications engineered and maintained in production:
@@ -150,11 +162,13 @@ The following matrix provides an executive overview of all 7 published productio
 
 ---
 
-### 📱 Detailed Production Project Showcases
+### 📱 Featured Applications Showcase & Technical Architecture
 
 #### 🛒 1. Balsan — E-Commerce & Smart Appliance Marketplace
 
 <div align="center">
+  <img src="./assets/projects/balsan-header.svg" alt="Balsan Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/balsan-portfolio.jpg" alt="Balsan E-Commerce Platform" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -173,6 +187,8 @@ The following matrix provides an executive overview of all 7 published productio
 #### 💄 2. Silver Cosmetic (كوزمتك فضة) — Beauty & Cosmetics Platform
 
 <div align="center">
+  <img src="./assets/projects/silver-header.svg" alt="Silver Cosmetic Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/silver-portfolio.jpg" alt="Silver Cosmetic Marketplace" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -189,6 +205,8 @@ The following matrix provides an executive overview of all 7 published productio
 #### 🚕 3. Taxi Beirut — Multi-Tier Ride-Hailing, Dispatch & Agent Ecosystem
 
 <div align="center">
+  <img src="./assets/projects/taxibeirut-header.svg" alt="Taxi Beirut Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/taxibeirut.jpg" alt="Taxi Beirut Ecosystem" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -206,6 +224,8 @@ The following matrix provides an executive overview of all 7 published productio
 #### 🏥 4. VA Note Clinic — Healthcare Records & Clinical Workflow
 
 <div align="center">
+  <img src="./assets/projects/vanote-header.svg" alt="VA Note Clinic Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/vanote.jpg" alt="VA Note Clinic EHR" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -223,6 +243,8 @@ The following matrix provides an executive overview of all 7 published productio
 #### 🏫 5. Aman (أمان) — School Attendance & Parent Notification System
 
 <div align="center">
+  <img src="./assets/projects/aman-header.svg" alt="Aman School Attendance Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/aman-portfolio.jpg" alt="Aman School Attendance App" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -238,6 +260,8 @@ The following matrix provides an executive overview of all 7 published productio
 #### 🛺 6. Tok Tok — Tuk-Tuk Dispatch, On-Demand Booking & Wallet
 
 <div align="center">
+  <img src="./assets/projects/toktok-header.svg" alt="Tok Tok Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/toktok.jpg" alt="Tok Tok Booking Suite" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -254,6 +278,8 @@ The following matrix provides an executive overview of all 7 published productio
 #### 🍽️ 7. Bait Al-Nakha (بيت النكهة) — Luxury Food Delivery Concept
 
 <div align="center">
+  <img src="./assets/projects/baitalnakha-header.svg" alt="Bait Al-Nakha Architecture & Live Metrics" width="760" />
+  <br /><br />
   <img src="./assets/projects/bait_al_nakha.jpg" alt="Bait Al-Nakha Concept" width="760" style="border-radius: 8px;" />
 </div>
 
@@ -316,6 +342,12 @@ Alongside production systems, these public repositories showcase clean architect
 ---
 
 ### 🛠️ Technical Competency Matrix
+
+<div align="center">
+  <img src="./assets/skills-animated.svg" alt="System Architecture & Technical Capabilities" width="100%" />
+</div>
+
+<br />
 
 <table>
   <tr>
