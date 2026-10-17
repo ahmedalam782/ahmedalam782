@@ -291,22 +291,6 @@ The following matrix provides an executive overview of all 7 published productio
 
 ---
 
-### 💻 Featured Open-Source Repositories & Architecture Samples
-
-Alongside production systems, these public repositories showcase clean architectural implementation, state management patterns, and SDK integrations:
-
-| Repository | Domain / Focus | Key Technologies | Link |
-|:---|:---|:---|:---:|
-| **[Fruit-Hub](https://github.com/ahmedalam782/Fruit-Hub)** | E-Commerce Grocery Store | Clean Architecture · BLoC · Supabase/Firebase Auth · Repository Pattern | [GitHub](https://github.com/ahmedalam782/Fruit-Hub) |
-| **[elevate_online_exam](https://github.com/ahmedalam782/elevate_online_exam)** | Digital Examination Engine | Clean Architecture · BLoC · Timed State Machine · Result Analytics | [GitHub](https://github.com/ahmedalam782/elevate_online_exam) |
-| **[elevate_tracking_app](https://github.com/ahmedalam782/elevate_tracking_app)** | Live Geolocation Telemetry | Google Maps SDK · Location Streams · Polyline Routing · WebSockets | [GitHub](https://github.com/ahmedalam782/elevate_tracking_app) |
-| **[Markaz-ElAmal-APP](https://github.com/ahmedalam782/Markaz-ElAmal-APP)** | Clinical Therapy Scheduling | Clean Architecture · BLoC · Patient Booking · Service Catalog | [GitHub](https://github.com/ahmedalam782/Markaz-ElAmal-APP) |
-| **[elevate_flower_app](https://github.com/ahmedalam782/elevate_flower_app)** | Boutique Delivery Mobile App | Clean Architecture · Cart State · REST API Integration | [GitHub](https://github.com/ahmedalam782/elevate_flower_app) |
-| **[dynamic_app_icon_switcher](https://github.com/ahmedalam782/dynamic_app_icon_switcher)** | Native Platform Channels | Flutter MethodChannels · Android & iOS Dynamic Launcher Icon Switch | [GitHub](https://github.com/ahmedalam782/dynamic_app_icon_switcher) |
-| **[clean_flutter_projects](https://github.com/ahmedalam782/clean_flutter_projects)** | Architectural Reference Boilerplate | Clean Architecture · SOLID · GetIt Dependency Injection · Testing Scaffold | [GitHub](https://github.com/ahmedalam782/clean_flutter_projects) |
-
----
-
 ### 💼 Verified Professional Experience
 
 ```
