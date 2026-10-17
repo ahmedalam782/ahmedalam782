@@ -1,0 +1,214 @@
+<svg width="100%" height="100%" viewBox="0 0 920 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="920" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10070C" />
+      <stop offset="45%" stop-color="#190B12" />
+      <stop offset="85%" stop-color="#14080F" />
+      <stop offset="100%" stop-color="#10070C" />
+    </linearGradient>
+
+    <!-- Radial Glow Orbs -->
+    <radialGradient id="glow-wine" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(740 160) rotate(90) scale(220 280)">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.45" />
+      <stop offset="50%" stop-color="#451126" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#10070C" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-rose" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 80) rotate(90) scale(180 240)">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#451126" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#10070C" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Linear Accent Gradients -->
+    <linearGradient id="text-title-grad" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#F8F0F3" />
+      <stop offset="85%" stop-color="#E5B5C7" />
+      <stop offset="100%" stop-color="#C77B9B" />
+    </linearGradient>
+
+    <linearGradient id="laser-grad" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0" />
+      <stop offset="25%" stop-color="#701A3D" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#C77B9B" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#FF5C8D" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#451126" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="card-border-grad" x1="0" y1="0" x2="180" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#451126" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#C77B9B" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Fine Technical Grid Pattern -->
+    <pattern id="tech-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#701A3D" stroke-opacity="0.12" stroke-width="1" />
+      <circle cx="0" cy="0" r="1" fill="#C77B9B" fill-opacity="0.25" />
+    </pattern>
+
+    <!-- Soft Filter for High-Impact Elements -->
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .mono-font { font-family: 'JetBrains Mono', 'SF Mono', Consolas, Menlo, Monaco, monospace; }
+    .sans-font { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    
+    @keyframes sweep {
+      0% { stroke-dashoffset: 800; }
+      50% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -800; }
+    }
+    
+    @keyframes pulseOrb {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.08); opacity: 1; }
+    }
+
+    @keyframes rotateClockwise {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    @keyframes rotateCounter {
+      0% { transform: rotate(360deg); }
+      100% { transform: rotate(0deg); }
+    }
+  </style>
+
+  <!-- Base Canvas -->
+  <rect width="920" height="340" rx="14" fill="url(#hero-bg)" />
+  <rect width="920" height="340" rx="14" fill="url(#tech-grid)" />
+
+  <!-- Ambient Wine & Rose Glows -->
+  <circle cx="740" cy="160" r="220" fill="url(#glow-wine)" />
+  <circle cx="200" cy="80" r="180" fill="url(#glow-rose)" />
+
+  <!-- Outer Elegant Frame -->
+  <rect x="1" y="1" width="918" height="338" rx="13" fill="none" stroke="#451126" stroke-width="1.2" stroke-opacity="0.75" />
+  <rect x="6" y="6" width="908" height="328" rx="9" fill="none" stroke="#701A3D" stroke-width="0.8" stroke-opacity="0.35" />
+
+  <!-- Technical Corner Marks -->
+  <path d="M 18 28 L 18 18 L 28 18" stroke="#C77B9B" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6" />
+  <path d="M 902 28 L 902 18 L 892 18" stroke="#C77B9B" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6" />
+  <path d="M 18 312 L 18 322 L 28 322" stroke="#C77B9B" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6" />
+  <path d="M 902 312 L 902 322 L 892 322" stroke="#C77B9B" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6" />
+
+  <!-- Orbital Right-Side Constellation Geometry (SMIL + CSS fallback) -->
+  <g transform="translate(740, 160)">
+    <!-- Outer Orbit Arc -->
+    <circle cx="0" cy="0" r="110" fill="none" stroke="#701A3D" stroke-width="1.2" stroke-dasharray="14 8" opacity="0.45">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Mid Orbit Ring with Accent Nodes -->
+    <circle cx="0" cy="0" r="82" fill="none" stroke="#C77B9B" stroke-width="1.4" stroke-dasharray="80 30 15 25" opacity="0.65">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="34s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Inner Core Ring -->
+    <ellipse cx="0" cy="0" rx="55" ry="55" fill="none" stroke="#E5B5C7" stroke-width="1" stroke-dasharray="6 4" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite" />
+    </ellipse>
+
+    <!-- Center Nucleus Glow -->
+    <circle cx="0" cy="0" r="28" fill="#451126" opacity="0.8" />
+    <circle cx="0" cy="0" r="14" fill="#701A3D">
+      <animate attributeName="r" values="12;16;12" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="6" fill="#F8F0F3" />
+
+    <!-- Satellite Nodes -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite" />
+      <circle cx="82" cy="0" r="4.5" fill="#E5B5C7" filter="url(#soft-glow)" />
+      <circle cx="-82" cy="0" r="3" fill="#C77B9B" />
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="180" to="-180" dur="40s" repeatCount="indefinite" />
+      <circle cx="0" cy="110" r="3.5" fill="#C77B9B" />
+      <circle cx="0" cy="-110" r="3.5" fill="#F8F0F3" />
+    </g>
+
+    <!-- Crosshair Target -->
+    <line x1="-125" y1="0" x2="-95" y2="0" stroke="#701A3D" stroke-width="1" opacity="0.4" />
+    <line x1="95" y1="0" x2="125" y2="0" stroke="#701A3D" stroke-width="1" opacity="0.4" />
+    <line x1="0" y1="-125" x2="0" y2="-95" stroke="#701A3D" stroke-width="1" opacity="0.4" />
+    <line x1="0" y1="95" x2="0" y2="125" stroke="#701A3D" stroke-width="1" opacity="0.4" />
+  </g>
+
+  <!-- Animated Laser Trace Line -->
+  <path d="M 40 226 L 360 226 L 410 250 L 880 250" fill="none" stroke="url(#laser-grad)" stroke-width="1.8" stroke-dasharray="160 300" stroke-linecap="round" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="800; 0; -800" dur="8s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Left Content Column -->
+  <!-- Status Badge Pill -->
+  <g transform="translate(46, 38)">
+    <rect x="0" y="0" width="310" height="28" rx="14" fill="#190B12" stroke="#701A3D" stroke-width="1" />
+    <!-- Pulsing Live Dot -->
+    <circle cx="16" cy="14" r="5" fill="#C77B9B">
+      <animate attributeName="r" values="4;6.5;4" dur="2.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="16" cy="14" r="9" fill="none" stroke="#E5B5C7" stroke-width="1" opacity="0.5">
+      <animate attributeName="r" values="5;11;14" dur="2.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0.2;0" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="18" fill="#E5B5C7" font-size="11" font-weight="600" letter-spacing="1.2" class="mono-font">FLUTTER ARCHITECT · OPEN-SOURCE</text>
+  </g>
+
+  <!-- Main Headline Name -->
+  <text x="46" y="112" fill="url(#text-title-grad)" font-size="36" font-weight="800" letter-spacing="-0.4" class="sans-font">AHMED MOHAMED OSMAN</text>
+  <text x="46" y="138" fill="#C77B9B" font-size="16" font-weight="600" letter-spacing="0.8" class="mono-font">@ahmedalam782 · "Ahmed Alam"</text>
+
+  <!-- Glowing Underline Accent -->
+  <path d="M 46 150 L 580 150" stroke="#451126" stroke-width="2" />
+  <path d="M 46 150 L 320 150" stroke="url(#laser-grad)" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="40 200; 180 80; 40 200" dur="5s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Editorial Role Line & Bio -->
+  <text x="46" y="180" fill="#F8F0F3" font-size="15" font-weight="500" class="sans-font">
+    Mobile Systems Specialist · Clean Architecture · BLoC · High-Performance Engineering
+  </text>
+  <text x="46" y="202" fill="#E5B5C7" font-size="13" font-weight="400" opacity="0.85" class="sans-font">
+    Benha University (B.Sc. Computer Science) · Author of adaptive_video_player &amp; osm_location_picker
+  </text>
+
+  <!-- Bottom Metric Cards Strip -->
+  <!-- Card 1: 7+ Production Apps -->
+  <g transform="translate(46, 252)">
+    <rect x="0" y="0" width="186" height="58" rx="8" fill="#190B12" fill-opacity="0.85" stroke="url(#card-border-grad)" stroke-width="1" />
+    <text x="14" y="26" fill="#F8F0F3" font-size="17" font-weight="700" class="sans-font">7+ Apps Shipped</text>
+    <text x="14" y="44" fill="#C77B9B" font-size="11" font-weight="500" class="mono-font">Google Play &amp; App Store</text>
+  </g>
+
+  <!-- Card 2: 160/160 Pub Points -->
+  <g transform="translate(242, 252)">
+    <rect x="0" y="0" width="186" height="58" rx="8" fill="#190B12" fill-opacity="0.85" stroke="url(#card-border-grad)" stroke-width="1" />
+    <text x="14" y="26" fill="#F8F0F3" font-size="17" font-weight="700" class="sans-font">160 / 160 Points</text>
+    <text x="14" y="44" fill="#C77B9B" font-size="11" font-weight="500" class="mono-font">pub.dev Open Source</text>
+  </g>
+
+  <!-- Card 3: 30% Load Optimization -->
+  <g transform="translate(438, 252)">
+    <rect x="0" y="0" width="186" height="58" rx="8" fill="#190B12" fill-opacity="0.85" stroke="url(#card-border-grad)" stroke-width="1" />
+    <text x="14" y="26" fill="#F8F0F3" font-size="17" font-weight="700" class="sans-font">-30% Startup Time</text>
+    <text x="14" y="44" fill="#C77B9B" font-size="11" font-weight="500" class="mono-font">Balsan App Lazy Loading</text>
+  </g>
+
+  <!-- Card 4: CI/CD Efficiency -->
+  <g transform="translate(634, 252)">
+    <rect x="0" y="0" width="240" height="58" rx="8" fill="#190B12" fill-opacity="0.85" stroke="url(#card-border-grad)" stroke-width="1" />
+    <text x="14" y="26" fill="#F8F0F3" font-size="17" font-weight="700" class="sans-font">5+ Hrs / Wk Saved</text>
+    <text x="14" y="44" fill="#C77B9B" font-size="11" font-weight="500" class="mono-font">GitHub Actions Release Flow</text>
+  </g>
+</svg>
