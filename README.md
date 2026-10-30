@@ -18,7 +18,7 @@
 
 > **Ahmed Mohamed Osman (Ahmed Alam)** is a **Mid-Level Flutter Developer** and **Open-Source Package Author** with **2+ years of production experience** engineering resilient cross-platform mobile ecosystems for Google Play and Apple App Store. 
 > 
-> Creator of **[`adaptive_video_player`](https://pub.dev/packages/adaptive_video_player)** (3.5k+ downloads · 160/160 pub points) and **[`osm_location_picker`](https://pub.dev/packages/osm_location_picker)** (709+ downloads · 160/160 pub points) — totaling **4.2k+ downloads** across pub.dev. Deeply specialized in **Clean Architecture**, reactive state management with **BLoC/Cubit**, **30% app load-time optimizations**, automated CI/CD deployment pipelines saving 5+ engineering hours per week, and rigorous **85% widget test coverage**.
+> Creator of **[`adaptive_video_player`](https://pub.dev/packages/adaptive_video_player)** (3.6k+ downloads · 160/160 pub points) and **[`osm_location_picker`](https://pub.dev/packages/osm_location_picker)** (711+ downloads · 160/160 pub points) — totaling **4.3k+ downloads** across pub.dev. Deeply specialized in **Clean Architecture**, reactive state management with **BLoC/Cubit**, **30% app load-time optimizations**, automated CI/CD deployment pipelines saving 5+ engineering hours per week, and rigorous **85% widget test coverage**.
 
 ---
 
@@ -298,7 +298,7 @@ The following matrix provides an executive overview of all 7 published productio
   • Architected & maintained 7+ production Flutter applications on Google Play & Apple App Store.
   • Accelerated Balsan startup load time by 30% via route-based code splitting and lazy component init.
   • Integrated real-time GPS telemetry, Google Maps SDK, VOIP notifications, and QR wallet deposits for Taxi Beirut.
-  • Authored and published adaptive_video_player (3.5k+ downloads, 160/160 pub points, 19 likes) across 6 Flutter platforms.
+  • Authored and published adaptive_video_player (3.6k+ downloads, 160/160 pub points, 19 likes) across 6 Flutter platforms.
   • Established automated GitHub Actions CI/CD pipelines, eliminating 5+ hours of manual build and release tasks weekly.
 
 🎓 Flutter Developer (Part-Time) @ Elevate Tech (Oct 2025 – Mar 2026 | Remote)
