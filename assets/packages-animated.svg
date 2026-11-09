@@ -79,7 +79,7 @@
 
       <rect x="144" y="0" width="132" height="22" rx="4" fill="#190B12" stroke="#451126" stroke-width="0.8" />
       <text x="210" y="15" fill="#4ADE80" font-size="10" font-weight="700" text-anchor="middle" class="mono">
-        851/MO ACTIVE
+        883/MO ACTIVE
       </text>
     </g>
   </g>
@@ -129,13 +129,13 @@
       <!-- Monthly Downloads Tile -->
       <rect x="184" y="0" width="84" height="64" rx="6" fill="#10070C" stroke="#701A3D" stroke-width="0.8" />
       <text x="226" y="24" fill="#C77B9B" font-size="9" font-weight="600" text-anchor="middle" class="mono">MONTHLY</text>
-      <text x="226" y="46" fill="#FF5C8D" font-size="14" font-weight="800" text-anchor="middle" class="mono">801</text>
+      <text x="226" y="46" fill="#FF5C8D" font-size="14" font-weight="800" text-anchor="middle" class="mono">839</text>
       <text x="226" y="58" fill="#E5B5C7" font-size="8" font-weight="500" text-anchor="middle" class="mono">DOWNLOADS</text>
 
       <!-- Total Downloads Tile -->
       <rect x="276" y="0" width="82" height="64" rx="6" fill="#10070C" stroke="#451126" stroke-width="0.8" />
       <text x="317" y="24" fill="#C77B9B" font-size="9" font-weight="600" text-anchor="middle" class="mono">ALL-TIME</text>
-      <text x="317" y="46" fill="#F8F0F3" font-size="14" font-weight="800" text-anchor="middle" class="mono">3.9k+</text>
+      <text x="317" y="46" fill="#F8F0F3" font-size="14" font-weight="800" text-anchor="middle" class="mono">4k+</text>
       <text x="317" y="58" fill="#E5B5C7" font-size="8" font-weight="500" text-anchor="middle" class="mono">TOTAL DLs</text>
     </g>
   </g>
@@ -185,13 +185,13 @@
       <!-- Monthly Downloads Tile -->
       <rect x="184" y="0" width="84" height="64" rx="6" fill="#10070C" stroke="#701A3D" stroke-width="0.8" />
       <text x="226" y="24" fill="#C77B9B" font-size="9" font-weight="600" text-anchor="middle" class="mono">MONTHLY</text>
-      <text x="226" y="46" fill="#FF5C8D" font-size="14" font-weight="800" text-anchor="middle" class="mono">50</text>
+      <text x="226" y="46" fill="#FF5C8D" font-size="14" font-weight="800" text-anchor="middle" class="mono">44</text>
       <text x="226" y="58" fill="#E5B5C7" font-size="8" font-weight="500" text-anchor="middle" class="mono">DOWNLOADS</text>
 
       <!-- Total Downloads Tile -->
       <rect x="276" y="0" width="82" height="64" rx="6" fill="#10070C" stroke="#451126" stroke-width="0.8" />
       <text x="317" y="24" fill="#C77B9B" font-size="9" font-weight="600" text-anchor="middle" class="mono">ALL-TIME</text>
-      <text x="317" y="46" fill="#F8F0F3" font-size="14" font-weight="800" text-anchor="middle" class="mono">723+</text>
+      <text x="317" y="46" fill="#F8F0F3" font-size="14" font-weight="800" text-anchor="middle" class="mono">725+</text>
       <text x="317" y="58" fill="#E5B5C7" font-size="8" font-weight="500" text-anchor="middle" class="mono">TOTAL DLs</text>
     </g>
   </g>
@@ -202,7 +202,7 @@
       POWERED BY PUB.DEV OFFICIAL REST API · GITHUB ACTIONS AUTOMATION · SCHEDULED DAILY REFRESH
     </text>
     <text x="816" y="0" fill="#C77B9B" font-size="9.5" font-weight="600" text-anchor="end" class="mono">
-      LAST SYNC: 2026-11-08
+      LAST SYNC: 2026-11-09
     </text>
   </g>
 </svg>
